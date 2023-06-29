@@ -1,0 +1,30 @@
+{
+  "name": "Cynosure Laser Safety Eyewear",
+  "short_name": "Cynosure",
+  "description": "Allows people to find laser safety eyewear for Cynosure lasers.",
+  "lang": "en-US",
+  "start_url": "https://invo.shinyapps.io/Cynosure/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#ffffff",
+  "icons": [
+    {
+      "src": "icons/icon-144.png",
+      "sizes": "144x144"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "Shortcut",
+      "short_name": "Shortcut",
+      "description": "Do something",
+      "url": "/?foo=1",
+      "icons": [
+        {
+          "src": "icons/shortcut.png",
+          "sizes": "192x192"
+        }
+      ]
+    }
+  ]
+}

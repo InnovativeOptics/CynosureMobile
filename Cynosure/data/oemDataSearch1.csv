@@ -1,0 +1,1039 @@
+Mfg,Mod,Wavelength,Eyewear Requirement,MinimumWL,MaximumWL,MinOD,RecNum,Lens
+A.R.C.,Fox 980  (12W),NA,980,970,990,NA,Compatible Lens 1,Gi1
+A.R.C.,Fox 980  (12W),NA,980,970,990,NA,Compatible Lens 2,Pi4
+A.R.C.,Wolf 980,NA,980,970,990,NA,Compatible Lens 1,Gi1
+A.R.C.,Wolf 980,NA,980,970,990,NA,Compatible Lens 2,Pi4
+A.R.C.,Wolf 1470,NA,1470,1460,1480,NA,Compatible Lens 1,Gi1
+A.R.C.,Wolf 1470,NA,1470,1460,1480,NA,Compatible Lens 2,Pi5
+A.R.C.,Fox 810  (8W),NA,810,800,820,NA,Compatible Lens 1,Pi1
+A.R.C.,Fox 810  (8W),NA,810,800,820,NA,Compatible Lens 2,GiT5
+A.R.C.,Wolf 455 TruBlue,NA,455,450,460,NA,Compatible Lens 1,Pi3
+A.R.C.,Wolf 455 TruBlue,NA,455,450,460,NA,Compatible Lens 2,Pi18
+A.R.C.,Fox 514  (1.5W),NA,514,510,520,NA,Compatible Lens 1,Pi3
+A.R.C.,Fox 514  (1.5W),NA,514,510,520,NA,Compatible Lens 2,Pi18
+Adler,neoV,NA,1064,1050,1070,NA,Compatible Lens 1,Gi1
+Adler,neoV,NA,1064,1050,1070,NA,Compatible Lens 2,Pi8
+Adler,neoV,NA,1470,1460,1480,NA,Compatible Lens 1,Gi1
+Adler,neoV,NA,1470,1460,1480,NA,Compatible Lens 2,Pi5
+Adler,neoV,NA,808,790,810,NA,Compatible Lens 1,Pi1
+Adler,neoV,NA,808,790,810,NA,Compatible Lens 2,GiT5
+Alcon,2300,NA,1064,1050,1070,NA,Compatible Lens 1,Gi1
+Alcon,2300,NA,1064,1050,1070,NA,Compatible Lens 2,Pi8
+Alcon,2500,NA,1064,1050,1070,NA,Compatible Lens 1,Gi1
+Alcon,2500,NA,1064,1050,1070,NA,Compatible Lens 2,Pi8
+Alcon,2500LE,NA,1064,1050,1070,NA,Compatible Lens 1,Gi1
+Alcon,2500LE,NA,1064,1050,1070,NA,Compatible Lens 2,Pi8
+Alcon,3000LE,NA,1064,1050,1070,NA,Compatible Lens 1,Gi1
+Alcon,3000LE,NA,1064,1050,1070,NA,Compatible Lens 2,Pi8
+Alcon,Eyelite (532 Diode),NA,532,520,540,NA,Compatible Lens 1,GiT1
+Alcon,Eyelite (532 Diode),NA,532,520,540,NA,Compatible Lens 2,Pi3
+Alcon,PurePoint (532 Diode),NA,532,520,540,NA,Compatible Lens 1,GiT1
+Alcon,PurePoint (532 Diode),NA,532,520,540,NA,Compatible Lens 2,Pi3
+Allmed/Lisa Laser,Revolix,NA,2013,2010,2020,NA,Compatible Lens 1,Gi1
+Allmed/Lisa Laser,Revolix,NA,2013,2010,2020,NA,Compatible Lens 2,Pi23
+Allmed/Lisa Laser,Revolix Jr. (15 Watt),NA,2013,2010,2020,NA,Compatible Lens 1,Gi1
+Allmed/Lisa Laser,Revolix Jr. (15 Watt),NA,2013,2010,2020,NA,Compatible Lens 2,Pi23
+Allmed/Lisa Laser,Sphinx,NA,2013,2010,2020,NA,Compatible Lens 1,Gi1
+Allmed/Lisa Laser,Sphinx,NA,2013,2010,2020,NA,Compatible Lens 2,Pi23
+Alma,Pixel CO2,10600,10600nm (OD 5),10599,10601,5,Compatible Lens 1,Pi11
+Alma,Excimer,308,308nm (100% UV),200,400,NA,Compatible Lens 1,Pi11
+Alma,Excimer,308,308nm (100% UV),200,400,NA,Compatible Lens 2,Pi14
+Alma,Hybrid,10600,"1570nm (OD 3), 10600nm (OD 3)",1560,1580,NA,Compatible Lens 1,Pi23
+Alma,Hybrid,10600,"1570nm (OD 3), 10600nm (OD 3)",1560,1580,NA,Compatible Lens 2,Gi1
+Alma,Hybrid,1570,"1570nm (OD 3), 10600nm (OD 3)",1560,1580,NA,Compatible Lens 1,Pi23
+Alma,Hybrid,1570,"1570nm (OD 3), 10600nm (OD 3)",1560,1580,NA,Compatible Lens 2,Gi1
+Alma,Beautiful,1470,1470nm (DL 3),1460,1480,NA,Compatible Lens 1,Pi23
+Alma,Beautiful,1470,1470nm (DL 3),1460,1480,NA,Compatible Lens 2,Gi1
+Alma,Harmony,532,"532nm (OD 5), 1064nm (OD 7), 2940 (OD 6), 420-950nm (IPL)",530,2950,NA,Compatible Lens 1,Pi3
+Alma,Harmony,532,"532nm (OD 5), 1064nm (OD 7), 2940 (OD 6), 420-950nm (IPL)",530,2950,NA,Compatible Lens 2,GiT1
+Alma,Harmony,532,"532nm (OD 5), 1064nm (OD 7), 2940 (OD 6), 420-950nm (IPL)",530,2950,NA,Special Case,Pi14
+Alma,Harmony,1064,"532nm (OD 5), 1064nm (OD 7), 2940 (OD 6), 420-950nm (IPL)",530,2950,NA,Compatible Lens 1,Pi3
+Alma,Harmony,1064,"532nm (OD 5), 1064nm (OD 7), 2940 (OD 6), 420-950nm (IPL)",530,2950,NA,Compatible Lens 2,GiT1
+Alma,Harmony,1064,"532nm (OD 5), 1064nm (OD 7), 2940 (OD 6), 420-950nm (IPL)",530,2950,NA,Special Case,Pi14
+Alma,Harmony,2940,"532nm (OD 5), 1064nm (OD 7), 2940 (OD 6), 420-950nm (IPL)",530,2950,NA,Compatible Lens 1,Pi3
+Alma,Harmony,2940,"532nm (OD 5), 1064nm (OD 7), 2940 (OD 6), 420-950nm (IPL)",530,2950,NA,Compatible Lens 2,GiT1
+Alma,Harmony,2940,"532nm (OD 5), 1064nm (OD 7), 2940 (OD 6), 420-950nm (IPL)",530,2950,NA,Special Case,Pi14
+Alma,Harmony,IPL,"532nm (OD 5), 1064nm (OD 7), 2940 (OD 6), 420-950nm (IPL)",530,2950,NA,Compatible Lens 1,Pi3
+Alma,Harmony,IPL,"532nm (OD 5), 1064nm (OD 7), 2940 (OD 6), 420-950nm (IPL)",530,2950,NA,Compatible Lens 2,GiT1
+Alma,Harmony,IPL,"532nm (OD 5), 1064nm (OD 7), 2940 (OD 6), 420-950nm (IPL)",530,2950,NA,Special Case,Pi14
+Alma,PicoClear,532,"532nm, 1064nm (OD 6)",530,1070,NA,Compatible Lens 1,Pi3
+Alma,PicoClear,532,"532nm, 1064nm (OD 6)",530,1070,NA,Compatible Lens 2,GiT1
+Alma,PicoClear,1064,"532nm, 1064nm (OD 6)",530,1070,NA,Compatible Lens 1,Pi3
+Alma,PicoClear,1064,"532nm, 1064nm (OD 6)",530,1070,NA,Compatible Lens 2,GiT1
+Alma,Platinum/Titanium,755,"750-760nm (OD 4), 810 (OD 4), 1064nm (OD 4)",745,1070,NA,Compatible Lens 1,Pi4
+Alma,Platinum/Titanium,755,"750-760nm (OD 4), 810 (OD 4), 1064nm (OD 4)",745,1070,NA,Compatible Lens 2,GiT7
+Alma,Platinum/Titanium,810,"750-760nm (OD 4), 810 (OD 4), 1064nm (OD 4)",745,1070,NA,Compatible Lens 1,Pi4
+Alma,Platinum/Titanium,810,"750-760nm (OD 4), 810 (OD 4), 1064nm (OD 4)",745,1070,NA,Compatible Lens 2,GiT7
+Alma,Platinum/Titanium,1064,"750-760nm (OD 4), 810 (OD 4), 1064nm (OD 4)",745,1070,NA,Compatible Lens 1,Pi4
+Alma,Platinum/Titanium,1064,"750-760nm (OD 4), 810 (OD 4), 1064nm (OD 4)",745,1070,NA,Compatible Lens 2,GiT7
+Alma,Soprano ICE,755,"750-890nm (OD 7), 600-1800 (IPL)",745,895,NA,Compatible Lens 1,Pi4
+Alma,Soprano ICE,755,"750-890nm (OD 7), 600-1800 (IPL)",745,895,NA,Compatible Lens 2,GiT5
+Alma,Soprano ICE,755,"750-890nm (OD 7), 600-1800 (IPL)",745,895,NA,Special Case,Pi14
+Alma,Hybrid,NA,10600/1570,1550,1580,NA,Compatible Lens 1,Gi1
+Alma,Soprano ICE Platinum,NA,755/810/1064,755,1070,NA,Compatible Lens 1,GiT5
+Alma,Soprano ICE Platinum,NA,755/810/1064,755,1070,NA,Compatible Lens 2,Pi4
+Alma,Soprano Titanium,NA,755/810/1064,755,1070,NA,Compatible Lens 1,GiT5
+Alma,Soprano Titanium,NA,755/810/1064,755,1070,NA,Compatible Lens 2,Pi4
+Alma,FemiLift,NA,10600,10599,10601,NA,Compatible Lens 1,Pi11
+Alma,FemiLift,NA,10600,10599,10601,NA,Compatible Lens 2,Gi1
+Alma,Pixel,NA,70 Watt,NA,NA,NA,Compatible Lens 1,Pi11
+Alma,Pixel,NA,70 Watt,NA,NA,NA,Compatible Lens 2,Gi1
+Alma,Soprano ICE,NA,755/810,750,810,NA,Compatible Lens 1,Pi16
+Alma,Soprano ICE,NA,755/810,750,810,NA,Compatible Lens 2,GiT5
+AMD,Picasso+,NA,800-820nm OD 5,NA,NA,NA,Compatible Lens 1,Pi1
+AMD,Picasso+ Lite,NA,800-820nm OD 5,NA,NA,NA,Compatible Lens 1,Pi1
+AMD,Clarion,NA,800-820nm OD 5,NA,NA,NA,Compatible Lens 1,Pi1
+American Medical Systems,Aura XP,NA,1064/532,530,1070,NA,Compatible Lens 1,Pi3
+American Medical Systems,Aura XP,NA,1064/532,530,1070,NA,Compatible Lens 2,GiT1
+AMS/Laserscope,Aura XP,NA,1064/532,530,1070,NA,Compatible Lens 1,Pi3
+AMS/Laserscope,Aura XP,NA,1064/532,530,1070,NA,Compatible Lens 2,GiT1
+AngioDynamic Biolitec,Ceralas D15,NA,980,970,990,NA,Compatible Lens 1,Gi1
+AngioDynamic Biolitec,Ceralas D15,NA,980,970,990,NA,Compatible Lens 2,Pi23
+AngioDynamic Biolitec,Ceralas E,NA,980,970,990,NA,Compatible Lens 1,Gi1
+AngioDynamic Biolitec,Ceralas E,NA,980,970,990,NA,Compatible Lens 2,Pi4
+AngioDynamic Biolitec,Ceralas PDT,NA,630,620,640,We can add OD 4 620-640nm into spec,Compatible Lens 1,Pi7
+AngioDynamics,Precision 980,NA,980,970,990,NA,Compatible Lens 1,Gi1
+AngioDynamics,Precision 980,NA,980,970,990,NA,Compatible Lens 2,Pi4
+AngioDynamics,Venacure 1470,NA,1470,1460,1480,NA,Compatible Lens 1,Gi1
+AngioDynamics,Venacure 1470,NA,1470,1460,1480,NA,Compatible Lens 2,Pi5
+AngioDynamics,VenaCure EVLT 1470 Pro,NA,1470,1460,1480,NA,Compatible Lens 1,Gi1
+AngioDynamics,VenaCure EVLT 1470 Pro,NA,1470,1460,1480,NA,Compatible Lens 2,Pi5
+AngioDynamics,Delta 15,NA,810,800,820,NA,Compatible Lens 1,Pi1
+AngioDynamics,Delta 15,NA,810,800,820,NA,Compatible Lens 2,GiT5
+AngioDynamics,Delta 30,NA,810,800,820,NA,Compatible Lens 1,Pi1
+AngioDynamics,Delta 30,NA,810,800,820,NA,Compatible Lens 2,GiT5
+AngioDynamics VenaCure,VenaCure 1470 Pro,NA,1470,1460,1480,NA,Compatible Lens 1,Gi1
+AngioDynamics VenaCure,VenaCure 1470 Pro,NA,1470,1460,1480,NA,Compatible Lens 2,Pi5
+Biolase,Epic 10 (10W Dental laser),NA,940,935,945,NA,Compatible Lens 1,Pi4
+Biolase,Epic 10 (10W Dental laser),NA,940,935,945,NA,Compatible Lens 2,GiT5
+Biolase,ezLase 940 (7W Dental laser),NA,940,935,945,NA,Compatible Lens 1,Pi4
+Biolase,ezLase 940 (7W Dental laser),NA,940,935,945,NA,Compatible Lens 2,GiT5
+Biolase,Waterlase iPlus,NA,2780nm,NA,NA,NA,Compatible Lens 1,Gi1
+Biolase,Waterlase Express,NA,2780nm,NA,NA,NA,Compatible Lens 1,Gi1
+Biolase,Epic X,NA,940nm +/- 10nm,NA,NA,NA,Compatible Lens 1,Pi17
+Biolase,Epic Pro,NA,"940nm +/- 20nm, 980nm +/- 20nm",NA,NA,NA,Compatible Lens 1,Pi17
+Biolase,Epic Hygiene,NA,980nm +/- 10nm,NA,NA,NA,Compatible Lens 1,Pi17
+Biolitec,Leonardo Mini 1470,NA,1470,1460,1480,NA,Compatible Lens 1,Gi1
+Biolitec,Leonardo Mini 1470,NA,1470,1460,1480,NA,Compatible Lens 2,Pi5
+Biolitec,Leonardo FPS,NA,1064 - 20Watt,1060,1070,NA,Compatible Lens 1,Gi1
+Biolitec,Leonardo FPS,NA,1064 - 20Watt,1060,1070,NA,Compatible Lens 2,Pi8
+Biolitec,Leonardo Dual 100,NA,980/1470,940,1470,NA,Compatible Lens 1,Gi1
+Biolitec,Leonardo Dual 100,NA,980/1470,940,1470,NA,Compatible Lens 2,GiT5
+Biolitec,LeonardoMini Dual,NA,980/1470,940,1470,NA,Compatible Lens 1,Gi1
+Biolitec,LeonardoMini Dual,NA,980/1470,940,1470,NA,Compatible Lens 2,GiT5
+Biolitec,Leonardo Dual 200,NA,980/1471,940,1475,NA,Compatible Lens 1,Gi1
+Biolitec,Leonardo Dual 200,NA,980/1471,940,1475,NA,Compatible Lens 2,GiT5
+Biolitec,Leonardo Dual 45,NA,980/1472,940,1475,NA,Compatible Lens 1,Gi1
+Biolitec,Leonardo Dual 45,NA,980/1472,940,1475,NA,Compatible Lens 2,GiT5
+Boston Scientific / Laserscope,Greenlight HPS,NA,532,520,540,NA,Compatible Lens 1,GiT1
+Boston Scientific / Laserscope,Greenlight HPS,NA,532,520,540,NA,Compatible Lens 2,Pi3
+Boston Scientific / Laserscope,Greenlight PV,NA,532,520,540,NA,Compatible Lens 1,GiT1
+Boston Scientific / Laserscope,Greenlight PV,NA,532,520,540,NA,Compatible Lens 2,Pi3
+Brassler,BLU Dental Microlaser,NA,810nm,NA,NA,NA,Compatible Lens 1,Pi1
+BVI,E4,NA,810,800,820,NA,Compatible Lens 1,Pi1
+BVI,E4,NA,810,800,820,NA,Compatible Lens 2,GiT5
+BVI/Endo Optiks,E2,NA,810,800,820,NA,Compatible Lens 1,Pi1
+BVI/Endo Optiks,E2,NA,810,800,820,NA,Compatible Lens 2,GiT5
+Candela,GentleYAG family,1064,1064nm (OD 6.3),1060,1070,6,Compatible Lens 1,Gi1
+Candela,GentleYAG family,1064,1064nm (OD 6.3),1060,1070,6,Compatible Lens 2,Pi8
+Candela,Nordlys Ydun,IPL,"1064nm (OD 4), 1550nm (OD 2), 400-950nm (IPL)",1060,1550,1,Compatible Lens 1,Gi1
+Candela,Nordlys Ydun,IPL,"1064nm (OD 4), 1550nm (OD 2), 400-950nm (IPL)",1060,1550,1,Compatible Lens 2,Pi4
+Candela,Nordlys Ydun,IPL,"1064nm (OD 4), 1550nm (OD 2), 400-950nm (IPL)",1060,1550,1,Special Case,Pi14
+Candela,Nordlys Ydun,1064,"1064nm (OD 4), 1550nm (OD 2), 400-950nm (IPL)",1060,1550,1,Compatible Lens 1,Gi1
+Candela,Nordlys Ydun,1064,"1064nm (OD 4), 1550nm (OD 2), 400-950nm (IPL)",1060,1550,1,Compatible Lens 2,Pi4
+Candela,Nordlys Ydun,1064,"1064nm (OD 4), 1550nm (OD 2), 400-950nm (IPL)",1060,1550,1,Special Case,Pi14
+Candela,Nordlys Ydun,1550,"1064nm (OD 4), 1550nm (OD 2), 400-950nm (IPL)",1060,1550,1,Compatible Lens 1,Gi1
+Candela,Nordlys Ydun,1550,"1064nm (OD 4), 1550nm (OD 2), 400-950nm (IPL)",1060,1550,1,Compatible Lens 2,Pi4
+Candela,Nordlys Ydun,1550,"1064nm (OD 4), 1550nm (OD 2), 400-950nm (IPL)",1060,1550,1,Special Case,Pi14
+Candela,Vbeam Perfecta,595,592-596nm (OD 5.2),590,600,5,Compatible Lens 1,Gi2
+Candela,Vbeam Perfecta,595,592-596nm (OD 5.2),590,600,5,Compatible Lens 2,Pi7
+Candela,Vbeam Prima,595,"592-596nm (OD 5), 1064nm (OD 5)",590,1070,5,Compatible Lens 1,Gi2.Gi1
+Candela,Vbeam Prima,595,"592-596nm (OD 5), 1064nm (OD 5)",590,1070,5,Compatible Lens 2,Pi22
+Candela,Vbeam Prima,1064,"592-596nm (OD 5), 1064nm (OD 5)",590,1070,5,Compatible Lens 1,Gi2.Gi1
+Candela,Vbeam Prima,1064,"592-596nm (OD 5), 1064nm (OD 5)",590,1070,5,Compatible Lens 2,Pi22
+Candela,ALEX TriVantage,532,"532nm (OD 6), 745-765nm (OD 6.8), 1064nm (OD 5.7)",530,1070,5.5,Compatible Lens 1,GiT1
+Candela,ALEX TriVantage,532,"532nm (OD 6), 745-765nm (OD 6.8), 1064nm (OD 5.7)",530,1070,5.5,Compatible Lens 2,Pi18
+Candela,ALEX TriVantage,755,"532nm (OD 6), 745-765nm (OD 6.8), 1064nm (OD 5.7)",530,1070,5.5,Compatible Lens 1,GiT1
+Candela,ALEX TriVantage,755,"532nm (OD 6), 745-765nm (OD 6.8), 1064nm (OD 5.7)",530,1070,5.5,Compatible Lens 2,Pi18
+Candela,ALEX TriVantage,1064,"532nm (OD 6), 745-765nm (OD 6.8), 1064nm (OD 5.7)",530,1070,5.5,Compatible Lens 1,GiT1
+Candela,ALEX TriVantage,1064,"532nm (OD 6), 745-765nm (OD 6.8), 1064nm (OD 5.7)",530,1070,5.5,Compatible Lens 2,Pi18
+Candela,PICOWAY,532,"Picosecond - 532nm (OD 6.6), 730nm (OD 4), 785nm (OD 4), 1064nm (OD 6)",530,1070,4,Compatible Lens 1,GiT1
+Candela,PICOWAY,532,"Picosecond - 532nm (OD 6.6), 730nm (OD 4), 785nm (OD 4), 1064nm (OD 6)",530,1070,4,Compatible Lens 2,Pi18
+Candela,PICOWAY,730,"Picosecond - 532nm (OD 6.6), 730nm (OD 4), 785nm (OD 4), 1064nm (OD 6)",530,1070,4,Compatible Lens 1,GiT1
+Candela,PICOWAY,730,"Picosecond - 532nm (OD 6.6), 730nm (OD 4), 785nm (OD 4), 1064nm (OD 6)",530,1070,4,Compatible Lens 2,Pi18
+Candela,PICOWAY,785,"Picosecond - 532nm (OD 6.6), 730nm (OD 4), 785nm (OD 4), 1064nm (OD 6)",530,1070,4,Compatible Lens 1,GiT1
+Candela,PICOWAY,785,"Picosecond - 532nm (OD 6.6), 730nm (OD 4), 785nm (OD 4), 1064nm (OD 6)",530,1070,4,Compatible Lens 2,Pi18
+Candela,PICOWAY,1064,"Picosecond - 532nm (OD 6.6), 730nm (OD 4), 785nm (OD 4), 1064nm (OD 6)",530,1070,4,Compatible Lens 1,GiT1
+Candela,PICOWAY,1064,"Picosecond - 532nm (OD 6.6), 730nm (OD 4), 785nm (OD 4), 1064nm (OD 6)",530,1070,4,Compatible Lens 2,Pi18
+Candela,GMAX Pro,755,"755nm (OD 5.8), 1064nm (OD 6.3)",750,1070,5.5,Compatible Lens 1,GiT5
+Candela,GMAX Pro,755,"755nm (OD 5.8), 1064nm (OD 6.3)",750,1070,5.5,Compatible Lens 2,Pi4
+Candela,GMAX Pro,755,"755nm (OD 5.8), 1064nm (OD 6.3)",750,1070,5.5,Special Case,Pi14
+Candela,GMAX Pro,1064,"755nm (OD 5.8), 1064nm (OD 6.3)",750,1070,5.5,Compatible Lens 1,GiT5
+Candela,GMAX Pro,1064,"755nm (OD 5.8), 1064nm (OD 6.3)",750,1070,5.5,Compatible Lens 2,Pi4
+Candela,GMAX Pro,1064,"755nm (OD 5.8), 1064nm (OD 6.3)",750,1070,5.5,Special Case,Pi14
+Candela,ELOS PLUS,IPL,"800-825nm (OD 6), 910-920nm (OD 5), 400-2000nm (IPL)",790,930,1,Compatible Lens 1,GiT5
+Candela,ELOS PLUS,IPL,"800-825nm (OD 6), 910-920nm (OD 5), 400-2000nm (IPL)",790,930,1,Compatible Lens 2,Pi4
+Candela,ELOS PLUS,IPL,"800-825nm (OD 6), 910-920nm (OD 5), 400-2000nm (IPL)",790,930,1,Special Case,Pi14
+Candela,CO2RE,10600,10600nm (OD 5),10599,10601,5,Compatible Lens 1,Pi11
+Candela,GentleLASE family,755,745-765nm (OD 5.8),740,770,5.5,Compatible Lens 1,Pi16
+Candela,GentleLASE family,755,745-765nm (OD 5.8),740,770,5.5,Compatible Lens 2,GiT5
+Candela,ELOS PLUS,810,"800-825nm (OD 6), 910-920nm (OD 5), 400-2000nm (IPL)",790,930,1,Compatible Lens 1,Pi4
+Candela,ELOS PLUS,810,"800-825nm (OD 6), 910-920nm (OD 5), 400-2000nm (IPL)",790,930,1,Compatible Lens 2,GiT5
+Candela,ELOS PLUS,810,"800-825nm (OD 6), 910-920nm (OD 5), 400-2000nm (IPL)",790,930,1,Special Case,Pi14
+Candela,ELOS PLUS,920,"800-825nm (OD 6), 910-920nm (OD 5), 400-2000nm (IPL)",790,930,1,Compatible Lens 1,Pi4
+Candela,ELOS PLUS,920,"800-825nm (OD 6), 910-920nm (OD 5), 400-2000nm (IPL)",790,930,1,Compatible Lens 2,GiT5
+Candela,ELOS PLUS,920,"800-825nm (OD 6), 910-920nm (OD 5), 400-2000nm (IPL)",790,930,1,Special Case,Pi14
+Candela,Gentle YAG,NA,1064,1050,1070,NA,Compatible Lens 1,Gi1
+Candela,Gentle YAG,NA,1064,1050,1070,NA,Compatible Lens 2,Pi8
+Candela,Mini GentleYAG,NA,1064,1050,1070,NA,Compatible Lens 1,Gi1
+Candela,Mini GentleYAG,NA,1064,1050,1070,NA,Compatible Lens 2,Pi8
+Candela,Smoothbeam,NA,1450,1440,1460,NA,Compatible Lens 1,Gi1
+Candela,Smoothbeam,NA,1450,1440,1460,NA,Compatible Lens 2,Pi5
+Candela,SmoothPeel,NA,2940,2930,2950,NA,Compatible Lens 1,Gi1
+Candela,SmoothPeel,NA,2940,2930,2950,NA,Compatible Lens 2,Pi10
+Candela,Ydun,NA,1550 Fractional,1540,1560,NA,Compatible Lens 1,Gi1
+Candela,Ydun,NA,1550 Fractional,1540,1560,NA,Compatible Lens 2,Pi5
+Candela,Nordlys,NA,1550/1064/1940,1060,1950,NA,Compatible Lens 1,Gi1
+Candela,Nordlys,NA,1550/1064/1940,1060,1950,NA,Compatible Lens 2,GiT5
+Candela,Frax Pro,NA,1550/1940,1550,1940,NA,Compatible Lens 1,Gi1
+Candela,Frax Pro,NA,1550/1940,1550,1940,NA,Compatible Lens 2,GiT5
+Candela,Vbeam,NA,595,590,600,NA,Compatible Lens 1,Gi2
+Candela,Vbeam,NA,595,590,600,NA,Compatible Lens 2,Pi7
+Candela,Vbeam Platinum,NA,595,590,600,NA,Compatible Lens 1,Gi2
+Candela,Vbeam Platinum,NA,595,590,600,NA,Compatible Lens 2,Pi7
+Candela,CO2RE Intima,NA,10600 60Watt/GYN,10599,10601,NA,Compatible Lens 1,Pi11
+Candela,CO2RE Intima,NA,10600 60Watt/GYN,10599,10601,NA,Compatible Lens 2,Gi1
+Candela,CO2RE,NA,60 Watt,NA,NA,NA,Compatible Lens 1,Pi11
+Candela,CO2RE,NA,60 Watt,NA,NA,NA,Compatible Lens 2,Gi1
+Candela,Alexlazr,NA,755,750,760,NA,Compatible Lens 1,Pi16
+Candela,Alexlazr,NA,755,750,760,NA,Compatible Lens 2,GiT1
+Candela,GentleLase,NA,755,750,760,NA,Compatible Lens 1,Pi16
+Candela,GentleLase,NA,755,750,760,NA,Compatible Lens 2,GiT1
+Candela,Gentlelase Plus,NA,755,750,760,NA,Compatible Lens 1,Pi16
+Candela,Gentlelase Plus,NA,755,750,760,NA,Compatible Lens 2,GiT1
+Candela,Mini Gentlelase,NA,755,750,760,NA,Compatible Lens 1,Pi16
+Candela,Mini Gentlelase,NA,755,750,760,NA,Compatible Lens 2,GiT1
+Candela,PicoWay,NA,1064/532,530,1070,NA,Compatible Lens 1,Pi3
+Candela,PicoWay,NA,1064/532,530,1070,NA,Compatible Lens 2,GiT1
+Candela,Gentle Pro,NA,755/1064,750,1070,NA,Compatible Lens 1,Pi4
+Candela,Gentle Pro,NA,755/1064,750,1070,NA,Compatible Lens 2,GiT5
+Candela,GentleMax,NA,755/1064,750,1070,NA,Compatible Lens 1,Pi4
+Candela,GentleMax,NA,755/1064,750,1070,NA,Compatible Lens 2,GiT5
+Candela,GentleMax Pro,NA,755/1064,750,1070,NA,Compatible Lens 1,Pi4
+Candela,GentleMax Pro,NA,755/1064,750,1070,NA,Compatible Lens 2,GiT5
+Candela,Sclero Plus,NA,585/590/595/600,585,600,NA,Compatible Lens 1,Pi7
+Candela,Sclero Plus,NA,585/590/595/600,585,600,NA,Compatible Lens 2,Pi22
+CAO,Precise LTM,NA,810nm,NA,NA,NA,Compatible Lens 1,Pi1
+Cardio Genesis/Eclipse,Eclipse TMR 2000,NA,2100,2090,2110,NA,Compatible Lens 1,Gi1
+Cardio Genesis/Eclipse,Eclipse TMR 2000,NA,2100,2090,2110,NA,Compatible Lens 2,Pi23
+Clincians Choice,Clincians Choice,NA,808nm,NA,NA,NA,Compatible Lens 1,Pi1
+Coherent,7910,NA,1064,1050,1070,NA,Compatible Lens 1,Gi1
+Coherent,7910,NA,1064,1050,1070,NA,Compatible Lens 2,Pi8
+Coherent,7970,NA,1064,1050,1070,NA,Compatible Lens 1,Gi1
+Coherent,7970,NA,1064,1050,1070,NA,Compatible Lens 2,Pi8
+Coherent,8900,NA,1064,1050,1070,NA,Compatible Lens 1,Gi1
+Coherent,8900,NA,1064,1050,1070,NA,Compatible Lens 2,Pi8
+Coherent,9900,NA,1064,1050,1070,NA,Compatible Lens 1,Gi1
+Coherent,9900,NA,1064,1050,1070,NA,Compatible Lens 2,Pi8
+Coherent,Aura,NA,1064,1050,1070,NA,Compatible Lens 1,Gi1
+Coherent,Aura,NA,1064,1050,1070,NA,Compatible Lens 2,Pi8
+Coherent,VP 2.1,NA,2100,2090,2110,NA,Compatible Lens 1,Gi1
+Coherent,VP 2.1,NA,2100,2090,2110,NA,Compatible Lens 2,Pi23
+Coherent,VP Select 30w,NA,2100,2090,2110,NA,Compatible Lens 1,Gi1
+Coherent,VP Select 30w,NA,2100,2090,2110,NA,Compatible Lens 2,Pi23
+Coherent,VP select 60,NA,2100,2090,2110,NA,Compatible Lens 1,Gi1
+Coherent,VP select 60,NA,2100,2090,2110,NA,Compatible Lens 2,Pi23
+Coherent,VP Select 60/60,NA,2100,2090,2110,NA,Compatible Lens 1,Gi1
+Coherent,VP Select 60/60,NA,2100,2090,2110,NA,Compatible Lens 2,Pi23
+Coherent,VP Select 80,NA,2100,2090,2110,NA,Compatible Lens 1,Gi1
+Coherent,VP Select 80,NA,2100,2090,2110,NA,Compatible Lens 2,Pi23
+Coherent,VP Select 80/100,NA,2100,2090,2110,NA,Compatible Lens 1,Gi1
+Coherent,VP Select 80/100,NA,2100,2090,2110,NA,Compatible Lens 2,Pi23
+Coherent,VP VPC,NA,2100,2090,2110,NA,Compatible Lens 1,Gi1
+Coherent,VP VPC,NA,2100,2090,2110,NA,Compatible Lens 2,Pi23
+Coherent,Epic (SLT),NA,532,520,540,NA,Compatible Lens 1,GiT1
+Coherent,Epic (SLT),NA,532,520,540,NA,Compatible Lens 2,Pi3
+Coherent,Novus Verdi,NA,532,520,540,NA,Compatible Lens 1,GiT1
+Coherent,Novus Verdi,NA,532,520,540,NA,Compatible Lens 2,Pi3
+Coherent,Selecta 7000 (original SLT),NA,532,520,540,NA,Compatible Lens 1,GiT1
+Coherent,Selecta 7000 (original SLT),NA,532,520,540,NA,Compatible Lens 2,Pi3
+Coherent,VPC w/helpg,NA,2100/532,530,2100,NA,Compatible Lens 1,GiT1
+Coherent,Opal,NA,690,680,700,NA,Compatible Lens 1,GiT7
+Coherent,LightSheer EC,NA,810,800,820,NA,Compatible Lens 1,Pi1
+Coherent,LightSheer EC,NA,810,800,820,NA,Compatible Lens 2,GiT5
+Coherent,Lightsheer EP,NA,810,800,820,NA,Compatible Lens 1,Pi1
+Coherent,Lightsheer EP,NA,810,800,820,NA,Compatible Lens 2,GiT5
+Coherent,LightSheer ET,NA,810,800,820,NA,Compatible Lens 1,Pi1
+Coherent,LightSheer ET,NA,810,800,820,NA,Compatible Lens 2,GiT5
+Coherent,Lightsheer SC,NA,810,800,820,NA,Compatible Lens 1,Pi1
+Coherent,Lightsheer SC,NA,810,800,820,NA,Compatible Lens 2,GiT5
+Coherent,Lightsheer XC,NA,810,800,820,NA,Compatible Lens 1,Pi1
+Coherent,Lightsheer XC,NA,810,800,820,NA,Compatible Lens 2,GiT5
+Coherent,UltraPulse 4000,NA,10600,10599,10601,NA,Compatible Lens 1,Pi11
+Coherent,UltraPulse 4000,NA,10600,10599,10601,NA,Compatible Lens 2,Gi1
+Coherent,Ultrapulse 5000 Venus,NA,10600,10599,10601,NA,Compatible Lens 1,Pi11
+Coherent,Ultrapulse 5000 Venus,NA,10600,10599,10601,NA,Compatible Lens 2,Gi1
+Coherent,UltraPulse 5000C,NA,10600,10599,10601,NA,Compatible Lens 1,Pi11
+Coherent,UltraPulse 5000C,NA,10600,10599,10601,NA,Compatible Lens 2,Gi1
+Coherent,UltraPulse 5000L,NA,10600,10599,10601,NA,Compatible Lens 1,Pi11
+Coherent,UltraPulse 5000L,NA,10600,10599,10601,NA,Compatible Lens 2,Gi1
+Coherent,XAM 15/XAM 20,NA,10600,10599,10601,NA,Compatible Lens 1,Pi11
+Coherent,XAM 15/XAM 20,NA,10600,10599,10601,NA,Compatible Lens 2,Gi1
+Coherent,XL 2000,NA,10600,10599,10601,NA,Compatible Lens 1,Pi11
+Coherent,XL 2000,NA,10600,10599,10601,NA,Compatible Lens 2,Gi1
+Coherent,XL 40,NA,10600,10599,10601,NA,Compatible Lens 1,Pi11
+Coherent,XL 40,NA,10600,10599,10601,NA,Compatible Lens 2,Gi1
+Coherent,XL 55,NA,10600,10599,10601,NA,Compatible Lens 1,Pi11
+Coherent,XL 55,NA,10600,10599,10601,NA,Compatible Lens 2,Gi1
+Coherent,XL 60,NA,10600,10599,10601,NA,Compatible Lens 1,Pi11
+Coherent,XL 60,NA,10600,10599,10601,NA,Compatible Lens 2,Gi1
+Coherent,LightSheer Duet,NA,(2) 805nm handpiece sizes,800,810,NA,Compatible Lens 1,Pi16
+Coherent,LightSheer Duet,NA,(2) 805nm handpiece sizes,800,810,NA,Compatible Lens 2,Pi1
+Coherent,Selecta Duet (coh. version),NA,1064/532,530,1070,NA,Compatible Lens 1,Pi3
+Coherent,Selecta Duet (coh. version),NA,1064/532,530,1070,NA,Compatible Lens 2,GiT1
+Coherent,920 Argon,NA,488.5/514,485,515,NA,Compatible Lens 1,Pi3
+Coherent,920 Argon,NA,488.5/514,485,515,NA,Compatible Lens 2,GiT1
+Coherent,Novus 2000,NA,488.5/514,485,515,NA,Compatible Lens 1,Pi3
+Coherent,Novus 2000,NA,488.5/514,485,515,NA,Compatible Lens 2,GiT1
+Coherent,Novus 2000 DF,NA,488.5/514,485,515,NA,Compatible Lens 1,Pi3
+Coherent,Novus 2000 DF,NA,488.5/514,485,515,NA,Compatible Lens 2,GiT1
+Coherent,Novus L,NA,488.5/514,485,515,NA,Compatible Lens 1,Pi3
+Coherent,Novus L,NA,488.5/514,485,515,NA,Compatible Lens 2,GiT1
+Coherent,Ultima 2000,NA,488.5/514,485,515,NA,Compatible Lens 1,Pi3
+Coherent,Ultima 2000,NA,488.5/514,485,515,NA,Compatible Lens 2,GiT1
+Coherent,Ultima 2000 SE,NA,488.5/514,485,515,NA,Compatible Lens 1,Pi3
+Coherent,Ultima 2000 SE,NA,488.5/514,485,515,NA,Compatible Lens 2,GiT1
+Coherent,7901 / 7921,NA,488.5/514/1064 combo,485,1070,NA,Compatible Lens 1,Pi3
+Coherent,7901 / 7921,NA,488.5/514/1064 combo,485,1070,NA,Compatible Lens 2,GiT1
+Coherent,920 Dye,NA,577-630,575,635,NA,Compatible Lens 1,Pi7
+Continuum Biomedical,Erbium,NA,2940,2930,2950,NA,Compatible Lens 1,Pi10
+Continuum Biomedical,Erbium,NA,2940,2930,2950,NA,Compatible Lens 2,Gi1
+Continuum Biomedical,C6,NA,1064/532 Q-switched,530,1070,NA,Compatible Lens 1,Pi3
+Continuum Biomedical,C6,NA,1064/532 Q-switched,530,1070,NA,Compatible Lens 2,GiT1
+Convergent,T-1470 LiteTouch (25Watt),NA,1470,1460,1480,NA,Compatible Lens 1,Gi1
+Convergent,T-1470 LiteTouch (25Watt),NA,1470,1460,1480,NA,Compatible Lens 2,Pi5
+Convergent,T-1470 ProTouch (100Watt),NA,1470,1460,1480,NA,Compatible Lens 1,Gi1
+Convergent,T-1470 ProTouch (100Watt),NA,1470,1460,1480,NA,Compatible Lens 2,Pi5
+Convergent,Thulium,NA,1940,1930,1950,NA,Compatible Lens 1,Gi1
+Convergent,Thulium,NA,1940,1930,1950,NA,Compatible Lens 2,Pi23
+Convergent,Odyssey 15,NA,2100,2090,2110,NA,Compatible Lens 1,Gi1
+Convergent,Odyssey 15,NA,2100,2090,2110,NA,Compatible Lens 2,Pi23
+Convergent,Odyssey 30,NA,2100,2090,2110,NA,Compatible Lens 1,Gi1
+Convergent,Odyssey 30,NA,2100,2090,2110,NA,Compatible Lens 2,Pi23
+Convergent,Solea Laser,NA,"9,300nm",NA,NA,NA,Compatible Lens 1,Pi19
+Cook Medical,Cyber CM200,NA,2000,1995,2005,NA,Compatible Lens 1,Gi1
+Cook Medical,Cyber CM200,NA,2000,1995,2005,NA,Compatible Lens 2,Pi23
+Cook Medical,Rhapsody H30,NA,2100,2090,2110,NA,Compatible Lens 1,Gi1
+Cook Medical,Rhapsody H30,NA,2100,2090,2110,NA,Compatible Lens 2,Pi23
+Cook Medical,Litho 100  (100Watt),NA,2100,2090,2110,NA,Compatible Lens 1,Gi1
+Cook Medical,Litho 100  (100Watt),NA,2100,2090,2110,NA,Compatible Lens 2,Pi23
+Cook Medical,Litho 60  (60Watt),NA,2100,2090,2110,NA,Compatible Lens 1,Gi1
+Cook Medical,Litho 60  (60Watt),NA,2100,2090,2110,NA,Compatible Lens 2,Pi23
+Cook Medical,Litho EVO,NA,2100,2090,2110,NA,Compatible Lens 1,Gi1
+Cook Medical,Litho EVO,NA,2100,2090,2110,NA,Compatible Lens 2,Pi23
+Cook Medical,Litho  (35Watt),NA,2100,2090,2110,NA,Compatible Lens 1,Gi1
+Cook Medical,Litho  (35Watt),NA,2100,2090,2110,NA,Compatible Lens 2,Pi23
+"Cooper Lasersonics, Inc.",8000 / 8900,NA,1064,1050,1070,NA,Compatible Lens 1,Gi1
+"Cooper Lasersonics, Inc.",8000 / 8900,NA,1064,1050,1070,NA,Compatible Lens 2,Pi8
+"Cooper Lasersonics, Inc.",Luxus 100YAG,NA,1064,1050,1070,NA,Compatible Lens 1,Gi1
+"Cooper Lasersonics, Inc.",Luxus 100YAG,NA,1064,1050,1070,NA,Compatible Lens 2,Pi8
+"Cooper Lasersonics, Inc.",Luxus 60 YAG,NA,1064,1050,1070,NA,Compatible Lens 1,Gi1
+"Cooper Lasersonics, Inc.",Luxus 60 YAG,NA,1064,1050,1070,NA,Compatible Lens 2,Pi8
+"Cooper Lasersonics, Inc.",870,NA,10600,10599,10601,NA,Compatible Lens 1,Pi11
+"Cooper Lasersonics, Inc.",870,NA,10600,10599,10601,NA,Compatible Lens 2,Gi1
+"Cooper Lasersonics, Inc.",2500,NA,10600,10599,10601,NA,Compatible Lens 1,Pi11
+"Cooper Lasersonics, Inc.",2500,NA,10600,10599,10601,NA,Compatible Lens 2,Gi1
+"Cooper Lasersonics, Inc.",Illumina 40,NA,10600,10599,10601,NA,Compatible Lens 1,Pi11
+"Cooper Lasersonics, Inc.",Illumina 40,NA,10600,10599,10601,NA,Compatible Lens 2,Gi1
+"Cooper Lasersonics, Inc.",Illumina 740,NA,10600,10599,10601,NA,Compatible Lens 1,Pi11
+"Cooper Lasersonics, Inc.",Illumina 740,NA,10600,10599,10601,NA,Compatible Lens 2,Gi1
+"Cooper Lasersonics, Inc.",Illumina 755,NA,10600,10599,10601,NA,Compatible Lens 1,Pi11
+"Cooper Lasersonics, Inc.",Illumina 755,NA,10600,10599,10601,NA,Compatible Lens 2,Gi1
+"Coopervision, Inc.",2000,NA,1064,1050,1070,NA,Compatible Lens 1,Gi1
+"Coopervision, Inc.",2000,NA,1064,1050,1070,NA,Compatible Lens 2,Pi8
+"Coopervision, Inc.",2300,NA,1064,1050,1070,NA,Compatible Lens 1,Gi1
+"Coopervision, Inc.",2300,NA,1064,1050,1070,NA,Compatible Lens 2,Pi8
+CryoLife/Cardio Genesis,SolarGen 2100s (CoolTouch Stonelight),NA,2100,2090,2110,NA,Compatible Lens 1,Gi1
+CryoLife/Cardio Genesis,SolarGen 2100s (CoolTouch Stonelight),NA,2100,2090,2110,NA,Compatible Lens 2,Pi23
+Cutera,xeo Nd:YAG,1064,1064nm (OD 6.1),1060,1070,6,Compatible Lens 1,Gi1
+Cutera,xeo Nd:YAG,1064,1064nm (OD 6.1),1060,1070,6,Compatible Lens 2,Pi8
+Cutera,AviClear,1726,1726nm (OD 3),1720,1730,3,Compatible Lens 1,Gi1
+Cutera,AviClear,1726,1726nm (OD 3),1720,1730,3,Compatible Lens 2,Pi23
+Cutera,xeo Pearl YSGG,2790,2790nm (OD 4),2780,2800,4,Compatible Lens 1,Pi10
+Cutera,xeo Pearl YSGG,2790,2790nm (OD 4),2780,2800,4,Compatible Lens 2,Pi23
+Cutera,xeo Pearl Fractional/YSGG,2790,2790nm (OD 4),2780,2800,4,Compatible Lens 1,Pi10
+Cutera,xeo Pearl Fractional/YSGG,2790,2790nm (OD 4),2780,2800,4,Compatible Lens 2,Pi23
+Cutera,Juliet Erbium,2940,2940nm (OD 4),2930,2950,4,Compatible Lens 1,Pi10
+Cutera,Juliet Erbium,2940,2940nm (OD 4),2930,2950,4,Compatible Lens 2,Pi23
+Cutera,Secret PRO CO2,10600,10600nm (OD 5),10599,10601,5,Compatible Lens 1,Pi11
+Cutera,excel V+ 532,532,"532nm (OD 5.89), 1064nm (OD 5.81)",530,1070,5.5,Compatible Lens 1,Pi3
+Cutera,excel V+ 532,532,"532nm (OD 5.89), 1064nm (OD 5.81)",530,1070,5.5,Compatible Lens 2,GiT1
+Cutera,excel V+ 532,1064,"532nm (OD 5.89), 1064nm (OD 5.81)",530,1070,5.5,Compatible Lens 1,Pi3
+Cutera,excel V+ 532,1064,"532nm (OD 5.89), 1064nm (OD 5.81)",530,1070,5.5,Compatible Lens 2,GiT1
+Cutera,enlighten,532,"532nm (OD 7), 1064nm (OD 7)",530,1070,7,Compatible Lens 1,Pi3
+Cutera,enlighten,532,"532nm (OD 7), 1064nm (OD 7)",530,1070,7,Compatible Lens 2,GiT1
+Cutera,enlighten,1064,"532nm (OD 7), 1064nm (OD 7)",530,1070,7,Compatible Lens 1,Pi3
+Cutera,enlighten,1064,"532nm (OD 7), 1064nm (OD 7)",530,1070,7,Compatible Lens 2,GiT1
+Cutera,enlighten SR,532,"532nm (OD 7), 1064nm (OD 7)",530,1070,7,Compatible Lens 1,Pi3
+Cutera,enlighten SR,532,"532nm (OD 7), 1064nm (OD 7)",530,1070,7,Compatible Lens 2,GiT1
+Cutera,enlighten SR,1064,"532nm (OD 7), 1064nm (OD 7)",530,1070,7,Compatible Lens 1,Pi3
+Cutera,enlighten SR,1064,"532nm (OD 7), 1064nm (OD 7)",530,1070,7,Compatible Lens 2,GiT1
+Cutera,excel HR,755,"755nm (OD 6.1), 1064nm (OD 7)",750,1070,6,Compatible Lens 1,Pi4
+Cutera,excel HR,755,"755nm (OD 6.1), 1064nm (OD 7)",750,1070,6,Compatible Lens 2,GiT5
+Cutera,excel HR,1064,"755nm (OD 6.1), 1064nm (OD 7)",750,1070,6,Compatible Lens 1,Pi4
+Cutera,excel HR,1064,"755nm (OD 6.1), 1064nm (OD 7)",750,1070,6,Compatible Lens 2,GiT5
+Cutera (Altus),Coolglide,NA,1064,1050,1070,NA,Compatible Lens 1,Gi1
+Cutera (Altus),Coolglide,NA,1064,1050,1070,NA,Compatible Lens 2,Pi8
+Cutera (Altus),Coolglide Excel,NA,1064,1050,1070,NA,Compatible Lens 1,Gi1
+Cutera (Altus),Coolglide Excel,NA,1064,1050,1070,NA,Compatible Lens 2,Pi8
+Cutera (Altus),Coolglide Vantage,NA,1064,1050,1070,NA,Compatible Lens 1,Gi1
+Cutera (Altus),Coolglide Vantage,NA,1064,1050,1070,NA,Compatible Lens 2,Pi8
+Cutera (Altus),Genesis Plus,NA,1064,1050,1070,NA,Compatible Lens 1,Gi1
+Cutera (Altus),Genesis Plus,NA,1064,1050,1070,NA,Compatible Lens 2,Pi8
+Cutera (Altus),Vantage,NA,1064,1050,1070,NA,Compatible Lens 1,Gi1
+Cutera (Altus),Vantage,NA,1064,1050,1070,NA,Compatible Lens 2,Pi8
+Cutera (Altus),Xeo,NA,IPL / 1064,1060,1070,NA,Compatible Lens 1,Gi1
+Cutera (Altus),Xeo,NA,IPL / 1064,1060,1070,NA,Compatible Lens 2,Pi8
+Cutera (Altus),Xeo,NA,IPL / 1064,1060,1070,NA,Special Case,Pi14
+Cutera (Altus),Enlighten,NA,Picosec 1064,1060,1070,NA,Compatible Lens 1,Gi1
+Cutera (Altus),Enlighten,NA,Picosec 1064,1060,1070,NA,Compatible Lens 2,Pi8
+Cutera (Altus),Secret Pro,NA,10600,10599,10601,NA,Compatible Lens 1,Pi11
+Cutera (Altus),Secret Pro,NA,10600,10599,10601,NA,Compatible Lens 2,Gi1
+Cutera (Altus),Excel V,NA,1064/532,530,1070,NA,Compatible Lens 1,Pi3
+Cutera (Altus),Excel V,NA,1064/532,530,1070,NA,Compatible Lens 2,GiT1
+Cutera (Altus),Excel V +,NA,1064/532,530,1070,NA,Compatible Lens 1,Pi3
+Cutera (Altus),Excel V +,NA,1064/532,530,1070,NA,Compatible Lens 2,GiT1
+Cutera (Altus),Excel HR,NA,755/1064,750,1070,NA,Compatible Lens 1,Pi4
+Cutera (Altus),Excel HR,NA,755/1064,750,1070,NA,Compatible Lens 2,GiT5
+Cynosure,SculpSure,NA,1060 (OD 7),1050,1070,NA,Compatible Lens 1,Gi1
+Cynosure,SculpSure,NA,1060 (OD 7),1050,1070,NA,Compatible Lens 2,Pi8
+Cynosure,SculpSure,NA,1060 (OD 7),1050,1070,NA,Special Case,GiT1
+Cynosure,Icon,NA,"1064 (OD 7), 1540 (OD 3), 2940 (OD 4)",1064,2940,NA,Compatible Lens 1,Gi1
+Cynosure,Icon,NA,"1064 (OD 7), 1540 (OD 3), 2940 (OD 4)",1064,2940,NA,Compatible Lens 2,GiT7
+Cynosure,Icon IPL,NA,IPL,NA,NA,NA,Compatible Lens 1,Pi14
+Cynosure,SmartLipo SLT II with CelluLaze (2012),NA,1440,1430,1450,NA,Compatible Lens 1,Gi1
+Cynosure,SmartLipo SLT II with CelluLaze (2012),NA,1440,1430,1450,NA,Compatible Lens 2,Pi5
+Cynosure,SmartLipo SLT II Triplex (2012),NA,"1064, 1320, 1440",1060,1450,NA,Compatible Lens 1,Gi1
+Cynosure,Smartlip Triplex,NA,"1064, 1320, 1440",1060,1450,NA,Compatible Lens 1,Gi1
+Cynosure,Cynergy,NA,"585, 1064",580,1070,NA,Compatible Lens 1,Gi2.Gi1
+Cynosure,Cynergy,NA,"585, 1064",580,1070,NA,Compatible Lens 2,Pi22
+Cynosure,Vectus,NA,790-830 (OD 5),NA,NA,NA,Compatible Lens 1,GiT1
+Cynosure,Vectus,NA,790-830 (OD 5),NA,NA,NA,Compatible Lens 2,Pi16
+Cynosure,Erbium,NA,2940,2930,2950,NA,Compatible Lens 1,Pi10
+Cynosure,Erbium,NA,2940,2930,2950,NA,Compatible Lens 2,Gi1
+Cynosure,MonaLisa Touch,NA,"10600 (OD 4), 630-690 (OD 1)",10599,10601,NA,Compatible Lens 1,Pi11
+Cynosure,MonaLisa Touch,NA,"10600 (OD 4), 630-690 (OD 1)",10599,10601,NA,Compatible Lens 2,Gi1
+Cynosure,MonaLisa Touch,NA,"10600 (OD 4), 630-690 (OD 1)",10599,10601,NA,Special Case,Pi14
+Cynosure,Smartskin +,NA,10600,10599,10601,NA,Compatible Lens 1,Pi11
+Cynosure,Smartskin +,NA,10600,10599,10601,NA,Compatible Lens 2,Gi1
+Cynosure,Accolade,NA,755,750,760,NA,Compatible Lens 1,Pi16
+Cynosure,Accolade,NA,755,750,760,NA,Compatible Lens 2,GiT1
+Cynosure,Apogee 40,NA,755,750,760,NA,Compatible Lens 1,Pi16
+Cynosure,Apogee 40,NA,755,750,760,NA,Compatible Lens 2,GiT1
+Cynosure,Apogee 5500,NA,755,750,760,NA,Compatible Lens 1,Pi16
+Cynosure,Apogee 5500,NA,755,750,760,NA,Compatible Lens 2,GiT1
+Cynosure,Apogee 6200,NA,755,750,760,NA,Compatible Lens 1,Pi16
+Cynosure,Apogee 6200,NA,755,750,760,NA,Compatible Lens 2,GiT1
+Cynosure,Apogee 9300,NA,755,750,760,NA,Compatible Lens 1,Pi16
+Cynosure,Apogee 9300,NA,755,750,760,NA,Compatible Lens 2,GiT1
+Cynosure,Apogee ELMD,NA,755,750,760,NA,Compatible Lens 1,Pi16
+Cynosure,Apogee ELMD,NA,755,750,760,NA,Compatible Lens 2,GiT1
+Cynosure,PicoSure,NA,"532, 755, 1064 (OD 7)",530,1070,NA,Compatible Lens 1,Pi18
+Cynosure,PicoSure,NA,"532, 755, 1064 (OD 7)",530,1070,NA,Compatible Lens 2,GiT1
+Cynosure,Revlite 585 Handpiece,NA,585nm (OD 7),NA,NA,NA,Compatible Lens 1,Gi2
+Cynosure,Revlite 585 Handpiece,NA,585nm (OD 7),NA,NA,NA,Compatible Lens 2,Pi7
+Cynosure,Revlite 650 Handpiece,NA,650nm (OD 6.5),NA,NA,NA,Compatible Lens 1,Pi30
+Cynosure,Revlite,NA,532nm (OD7) / 1064nm (OD 7),530,1070,NA,Compatible Lens 1,Pi3
+Cynosure,Revlite,NA,532nm (OD7) / 1064nm (OD 7),530,1070,NA,Compatible Lens 2,GiT1
+Cynosure,Elite iQ,NA,"755, 1064 (OD 7)",750,1070,NA,Compatible Lens 1,GiT5
+Cynosure,Elite iQ,NA,"755, 1064 (OD 7)",750,1070,NA,Compatible Lens 2,Pi4
+Cynosure,Elite iQ,NA,"755, 1064 (OD 7)",750,1070,NA,Special Case,GiT1
+Cynosure,Elite+,NA,"755, 1064 (OD 7)",750,1070,NA,Compatible Lens 1,GiT5
+Cynosure,Elite+,NA,"755, 1064 (OD 7)",750,1070,NA,Compatible Lens 2,Pi4
+Cynosure,Elite+,NA,"755, 1064 (OD 7)",750,1070,NA,Special Case,GiT1
+Cynosure,Elite IPL,NA,IPL,NA,NA,NA,Compatible Lens 1,Pi14
+Cynosure,Apogee Elite,NA,755/1064,750,1070,NA,Compatible Lens 1,Pi4
+Cynosure,Apogee Elite,NA,755/1064,750,1070,NA,Compatible Lens 2,GiT5
+Cynosure,Apogee Elite MPX,NA,755/1064,750,1070,NA,Compatible Lens 1,Pi4
+Cynosure,Apogee Elite MPX,NA,755/1064,750,1070,NA,Compatible Lens 2,GiT5
+Cynosure,Apogee Elite Plus,NA,755/1064,750,1070,NA,Compatible Lens 1,Pi4
+Cynosure,Apogee Elite Plus,NA,755/1064,750,1070,NA,Compatible Lens 2,GiT5
+Cynosure/Hoya/ConBio,Medlite C3,NA,1064/532,530,1070,NA,Compatible Lens 1,Pi3
+Cynosure/Hoya/ConBio,Medlite C3,NA,1064/532,530,1070,NA,Compatible Lens 2,GiT1
+Cynosure/Hoya/ConBio,Medlite II,NA,1064/532,530,1070,NA,Compatible Lens 1,Pi3
+Cynosure/Hoya/ConBio,Medlite II,NA,1064/532,530,1070,NA,Compatible Lens 2,GiT1
+Cynosure/Hoya/ConBio,Medlite IV,NA,1064/532,530,1070,NA,Compatible Lens 1,Pi3
+Cynosure/Hoya/ConBio,Medlite IV,NA,1064/532,530,1070,NA,Compatible Lens 2,GiT1
+Deka,Smart US-20 D  (25Watt),NA,10600,10599,10601,NA,Compatible Lens 1,Pi11
+Deka,Smart US-20 D  (25Watt),NA,10600,10599,10601,NA,Compatible Lens 2,Gi1
+Deka,SmartXide  (30Watt),NA,10600,10599,10601,NA,Compatible Lens 1,Pi11
+Deka,SmartXide  (30Watt),NA,10600,10599,10601,NA,Compatible Lens 2,Gi1
+Deka,SL040  (40Watt),NA,10600,10599,10601,NA,Compatible Lens 1,Pi11
+Deka,SL040  (40Watt),NA,10600,10599,10601,NA,Compatible Lens 2,Gi1
+Deka,SmartXide 50  (50Watt),NA,10600,10599,10601,NA,Compatible Lens 1,Pi11
+Deka,SmartXide 50  (50Watt),NA,10600,10599,10601,NA,Compatible Lens 2,Gi1
+DeKa,SmartPerio ,NA,1064nm,NA,NA,NA,Compatible Lens 1,Gi1
+DeKa,Smart US-20D CO2 Laser,NA,"10,600nm",NA,NA,NA,Compatible Lens 1,Pi19
+DeKa,SmartXide Ultraspeed2 CO2 Laser,NA,"10,600nm",NA,NA,NA,Compatible Lens 1,Pi19
+Denmat,Sol,NA,810nm,NA,NA,NA,Compatible Lens 1,Pi1
+Diomed,15 Plus,NA,790-830,790,830,NA,Compatible Lens 1,Pi16
+Diomed,15 Plus,NA,790-830,790,830,NA,Compatible Lens 2,GiT7
+Diomed,30 Plus,NA,790-830,790,830,NA,Compatible Lens 1,Pi16
+Diomed,30 Plus,NA,790-830,790,830,NA,Compatible Lens 2,GiT7
+Diomed / Biolitec,630 PDT,NA,630,620,640,We can add OD 4 620-640nm into spec,Compatible Lens 1,Pi7
+Diomed/Angiodynamics,Delta 15,NA,790-830,790,830,NA,Compatible Lens 1,Pi16
+Diomed/Angiodynamics,Delta 15,NA,790-830,790,830,NA,Compatible Lens 2,GiT7
+Diomed/Angiodynamics,Delta 30,NA,790-830,790,830,NA,Compatible Lens 1,Pi16
+Diomed/Angiodynamics,Delta 30,NA,790-830,790,830,NA,Compatible Lens 2,GiT7
+Dornier,Fibertome 8100  (100 Watt),NA,1064,1050,1070,NA,Compatible Lens 1,Gi1
+Dornier,Fibertome 8100  (100 Watt),NA,1064,1050,1070,NA,Compatible Lens 2,Pi8
+Dornier,Thulio,NA,2013,2010,2020,NA,Compatible Lens 1,Gi1
+Dornier,Thulio,NA,2013,2010,2020,NA,Compatible Lens 2,Pi23
+Dornier,Medilas H,NA,2100,2090,2110,NA,Compatible Lens 1,Gi1
+Dornier,Medilas H,NA,2100,2090,2110,NA,Compatible Lens 2,Pi23
+Dornier,Medilas H 20,NA,2100,2090,2110,NA,Compatible Lens 1,Gi1
+Dornier,Medilas H 20,NA,2100,2090,2110,NA,Compatible Lens 2,Pi23
+Dornier,Medilas H 100,NA,2100,2090,2110,NA,Compatible Lens 1,Gi1
+Dornier,Medilas H 100,NA,2100,2090,2110,NA,Compatible Lens 2,Pi23
+Dornier,Medilas H 140,NA,2100,2090,2110,NA,Compatible Lens 1,Gi1
+Dornier,Medilas H 140,NA,2100,2090,2110,NA,Compatible Lens 2,Pi23
+Dornier,Medilas H Solvo 30,NA,2100,2090,2110,NA,Compatible Lens 1,Gi1
+Dornier,Medilas H Solvo 30,NA,2100,2090,2110,NA,Compatible Lens 2,Pi23
+Dornier,Medilas H Solvo 35,NA,2100,2090,2110,NA,Compatible Lens 1,Gi1
+Dornier,Medilas H Solvo 35,NA,2100,2090,2110,NA,Compatible Lens 2,Pi23
+Dornier,Medilase UroBeam,NA,2100,2090,2110,NA,Compatible Lens 1,Gi1
+Dornier,Medilase UroBeam,NA,2100,2090,2110,NA,Compatible Lens 2,Pi23
+Dornier,Medilase UroPulse - 20W,NA,2100,2090,2110,NA,Compatible Lens 1,Gi1
+Dornier,Medilase UroPulse - 20W,NA,2100,2090,2110,NA,Compatible Lens 2,Pi23
+Dornier MedTech,Medilas D LiteBeam+  - 15W/1470,NA,1470,1460,1480,NA,Compatible Lens 1,Gi1
+Dornier MedTech,Medilas D LiteBeam+  - 15W/1470,NA,1470,1460,1480,NA,Compatible Lens 2,Pi5
+Dornier MedTech,Medilas D LiteBeam+  - 30W/940  15W/1470,NA,940/1470,940,1470,NA,Compatible Lens 1,GiT5
+Dornier MedTech,Medilas D  - 30,NA,940,935,945,NA,Compatible Lens 1,Pi4
+Dornier MedTech,Medilas D  - 30,NA,940,935,945,NA,Compatible Lens 2,GiT5
+Dornier MedTech,Medilas D  - 60,NA,940,935,945,NA,Compatible Lens 1,Pi4
+Dornier MedTech,Medilas D  - 60,NA,940,935,945,NA,Compatible Lens 2,GiT5
+Dornier MedTech,Medilas D FlexiPlus - 30W,NA,940,935,945,NA,Compatible Lens 1,Pi4
+Dornier MedTech,Medilas D FlexiPlus - 30W,NA,940,935,945,NA,Compatible Lens 2,GiT5
+Dornier MedTech,Medilas D FlexiPlus - 60W,NA,940,935,945,NA,Compatible Lens 1,Pi4
+Dornier MedTech,Medilas D FlexiPlus - 60W,NA,940,935,945,NA,Compatible Lens 2,GiT5
+Dornier MedTech,Medilas D FlexiPlus - 120W,NA,940,935,945,NA,Compatible Lens 1,Pi4
+Dornier MedTech,Medilas D FlexiPlus - 120W,NA,940,935,945,NA,Compatible Lens 2,GiT5
+Dornier MedTech,Medilas D LiteBeam - 60W,NA,940,935,945,NA,Compatible Lens 1,Pi4
+Dornier MedTech,Medilas D LiteBeam - 60W,NA,940,935,945,NA,Compatible Lens 2,GiT5
+Dornier MedTech,Medilas D Multi-Beam 80W,NA,940,935,945,NA,Compatible Lens 1,Pi4
+Dornier MedTech,Medilas D Multi-Beam 80W,NA,940,935,945,NA,Compatible Lens 2,GiT5
+Eclipse,TMR2000,NA,2100,2090,2110,NA,Compatible Lens 1,Gi1
+Eclipse,TMR2000,NA,2100,2090,2110,NA,Compatible Lens 2,Pi23
+Ellex,Ultra Q,NA,1064,1050,1070,NA,Compatible Lens 1,Gi1
+Ellex,Ultra Q,NA,1064,1050,1070,NA,Compatible Lens 2,Pi8
+Ellex,Ultra Q R,NA,1064,1050,1070,NA,Compatible Lens 1,Gi1
+Ellex,Ultra Q R,NA,1064,1050,1070,NA,Compatible Lens 2,Pi8
+Ellex,Integre Pro Scan (Green),NA,532,520,540,NA,Compatible Lens 1,GiT1
+Ellex,Integre Pro Scan (Green),NA,532,520,540,NA,Compatible Lens 2,Pi3
+Ellex,Integre SP 532,NA,532,520,540,NA,Compatible Lens 1,GiT1
+Ellex,Integre SP 532,NA,532,520,540,NA,Compatible Lens 2,Pi3
+Ellex,Solo (SLT),NA,532,520,540,NA,Compatible Lens 1,GiT1
+Ellex,Solo (SLT),NA,532,520,540,NA,Compatible Lens 2,Pi3
+Ellex,Tango,NA,1064/532,530,1070,NA,Compatible Lens 1,Pi3
+Ellex,Tango,NA,1064/532,530,1070,NA,Compatible Lens 2,GiT1
+Ellex,Tango R,NA,1064/532,530,1070,NA,Compatible Lens 1,Pi3
+Ellex,Tango R,NA,1064/532,530,1070,NA,Compatible Lens 2,GiT1
+Ellex,Tango Reflex Neo,NA,1064/533,530,1070,NA,Compatible Lens 1,Pi3
+Ellex,Tango Reflex Neo,NA,1064/533,530,1070,NA,Compatible Lens 2,GiT1
+Ellex,Integre Pro Scan (Yellow),NA,565,560,570,NA,Compatible Lens 1,Pi7
+Ellex,Integre Pro Scan (Yellow),NA,565,560,570,NA,Compatible Lens 2,Pi22
+Ellex/Laserex,Super Q,NA,1064,1050,1070,NA,Compatible Lens 1,Gi1
+Ellex/Laserex,Super Q,NA,1064,1050,1070,NA,Compatible Lens 2,Pi8
+Ellex/Laserex,Ultra Q,NA,1064,1050,1070,NA,Compatible Lens 1,Gi1
+Ellex/Laserex,Ultra Q,NA,1064,1050,1070,NA,Compatible Lens 2,Pi8
+Endo Optiks,E2,NA,810,800,820,NA,Compatible Lens 1,Pi1
+Endo Optiks,E2,NA,810,800,820,NA,Compatible Lens 2,GiT5
+Fotona,Nd:YAG 1064,1064,1064nm (OD 7) (LB 7),1060,1070,NA,Compatible Lens 1,Gi1
+Fotona,Nd:YAG 1064,1064,1064nm (OD 7) (LB 7),1060,1070,NA,Compatible Lens 2,Pi8
+Fotona,Q-switched Nd:YAG 1064,1064,1064nm (OD 6) (LB 6),1060,1070,NA,Compatible Lens 1,Gi1
+Fotona,Q-switched Nd:YAG 1064,1064,1064nm (OD 6) (LB 6),1060,1070,NA,Compatible Lens 2,Pi8
+Fotona,Accelera Pulse Nd:YAG 1064,1064,1064nm (OD 6) (LB 6),1060,1070,NA,Compatible Lens 1,Gi1
+Fotona,Accelera Pulse Nd:YAG 1064,1064,1064nm (OD 6) (LB 6),1060,1070,NA,Compatible Lens 2,Pi8
+Fotona,Q-switched Beam Converter 585,585,585nm (OD 5) (LB 5),570,595,NA,Compatible Lens 1,Gi2
+Fotona,Q-switched Beam Converter 585,585,585nm (OD 5) (LB 5),570,595,NA,Compatible Lens 2,Pi7
+Fotona,Er:YAG 2940,2940,2940nm (OD 4) (LB 4),2930,2950,NA,Compatible Lens 1,Pi23
+Fotona,Er:YAG 2940,2940,2940nm (OD 4) (LB 4),2930,2950,NA,Compatible Lens 2,Gi1
+Fotona,QX MAX,NA,Q-Switched 1064/532,532,1064,NA,Compatible Lens 1,Pi3
+Fotona,QX MAX,NA,Q-Switched 1064/532,532,1064,NA,Compatible Lens 2,GiT1
+Fotona,Freq-doubled KTP Nd:YAG 532,532,532nm (OD 6) (LB 6),520,540,NA,Compatible Lens 1,Pi3
+Fotona,Freq-doubled KTP Nd:YAG 532,532,532nm (OD 6) (LB 6),520,540,NA,Compatible Lens 2,GiT1
+Fotona,LightWalker AT,NA,1064nm / 2940nm,NA,NA,NA,Compatible Lens 1,Gi1
+Fotona,LightWalker AT S,NA,1064nm / 2940nm,NA,NA,NA,Compatible Lens 1,Gi1
+Fotona,Lightwalker ST-E,NA,2940nm,NA,NA,NA,Compatible Lens 1,Gi1
+Fotona,SkyPulse Endo,NA,2940nm,NA,NA,NA,Compatible Lens 1,Gi1
+Fotona,SkyPulse Versa,NA,2940nm,NA,NA,NA,Compatible Lens 1,Gi1
+Fotona,NightLase,NA,2940nm,NA,NA,NA,Compatible Lens 1,Gi1
+GPT Dental,DENTA CO2,NA,10600nm,NA,NA,NA,Compatible Lens 1,Pi19
+Iridex,IQ 577,NA,577,570,580,NA,Compatible Lens 1,Gi2
+Iridex,IQ 577,NA,577,570,580,NA,Compatible Lens 2,Pi7
+Iridex,Pascal Synthesis,NA,577,570,580,NA,Compatible Lens 1,Gi2
+Iridex,Pascal Synthesis,NA,577,570,580,NA,Compatible Lens 2,Pi7
+Iridex,IQ 532,NA,532,520,540,NA,Compatible Lens 1,GiT1
+Iridex,IQ 532,NA,532,520,540,NA,Compatible Lens 2,Pi3
+Iridex,Pascal Synthesis,NA,532,520,540,NA,Compatible Lens 1,GiT1
+Iridex,Pascal Synthesis,NA,532,520,540,NA,Compatible Lens 2,Pi3
+Iridex,IQ 810,NA,810,800,820,NA,Compatible Lens 1,Pi1
+Iridex,IQ 810,NA,810,800,820,NA,Compatible Lens 2,GiT5
+Iridex,Cyclo G6,NA,830,820,840,NA,Compatible Lens 1,Pi1
+Iridex,Cyclo G6,NA,830,820,840,NA,Compatible Lens 2,GiT5
+Iridex/Iriderm,Diolite 532,NA,532,520,540,NA,Compatible Lens 1,GiT1
+Iridex/Iriderm,Diolite 532,NA,532,520,540,NA,Compatible Lens 2,Pi3
+Iridex/Iris,Oculight TX Green,NA,532,520,540,NA,Compatible Lens 1,GiT1
+Iridex/Iris,Oculight TX Green,NA,532,520,540,NA,Compatible Lens 2,Pi3
+Iridex/Iris Medical,Oculight GL,NA,532,520,540,NA,Compatible Lens 1,GiT1
+Iridex/Iris Medical,Oculight GL,NA,532,520,540,NA,Compatible Lens 2,Pi3
+Iridex/Iris Medical,Oculight GLx,NA,532,520,540,NA,Compatible Lens 1,GiT1
+Iridex/Iris Medical,Oculight GLx,NA,532,520,540,NA,Compatible Lens 2,Pi3
+Iridex/Iris Medical,Oculight SL,NA,810,800,820,NA,Compatible Lens 1,Pi1
+Iridex/Iris Medical,Oculight SL,NA,810,800,820,NA,Compatible Lens 2,GiT5
+Iridex/Iris Medical,Oculight SLx,NA,810,800,820,NA,Compatible Lens 1,Pi1
+Iridex/Iris Medical,Oculight SLx,NA,810,800,820,NA,Compatible Lens 2,GiT5
+King Medical,Beamer STL 980,NA,980nm,NA,NA,NA,Compatible Lens 1,Pi17
+Lasag/Meridian,MR II,NA,1064,1050,1070,NA,Compatible Lens 1,Gi1
+Lasag/Meridian,MR II,NA,1064,1050,1070,NA,Compatible Lens 2,Pi8
+Lasag/Meridian,MR III,NA,1064,1050,1070,NA,Compatible Lens 1,Gi1
+Lasag/Meridian,MR III,NA,1064,1050,1070,NA,Compatible Lens 2,Pi8
+Lasag/Meridian,Topaz,NA,1064,1050,1070,NA,Compatible Lens 1,Gi1
+Lasag/Meridian,Topaz,NA,1064,1050,1070,NA,Compatible Lens 2,Pi8
+Laser Engineering,MD40,NA,10600,10599,10601,NA,Compatible Lens 1,Pi11
+Laser Engineering,MD40,NA,10600,10599,10601,NA,Compatible Lens 2,Gi1
+Laser Engineering,MD50,NA,10600,10599,10601,NA,Compatible Lens 1,Pi11
+Laser Engineering,MD50,NA,10600,10599,10601,NA,Compatible Lens 2,Gi1
+Laser Engineering,MD55,NA,10600,10599,10601,NA,Compatible Lens 1,Pi11
+Laser Engineering,MD55,NA,10600,10599,10601,NA,Compatible Lens 2,Gi1
+Laser Engineering,MD60,NA,10600,10599,10601,NA,Compatible Lens 1,Pi11
+Laser Engineering,MD60,NA,10600,10599,10601,NA,Compatible Lens 2,Gi1
+Laser Engineering,MD75,NA,10600,10599,10601,NA,Compatible Lens 1,Pi11
+Laser Engineering,MD75,NA,10600,10599,10601,NA,Compatible Lens 2,Gi1
+Laserex,3000LX,NA,1064,1050,1070,NA,Compatible Lens 1,Gi1
+Laserex,3000LX,NA,1064,1050,1070,NA,Compatible Lens 2,Pi8
+Laserex,LQP 3106,NA,1064,1050,1070,NA,Compatible Lens 1,Gi1
+Laserex,LQP 3106,NA,1064,1050,1070,NA,Compatible Lens 2,Pi8
+Laserex,Solitaire,NA,532,520,540,NA,Compatible Lens 1,GiT1
+Laserex,Solitaire,NA,532,520,540,NA,Compatible Lens 2,Pi3
+Laserscope,Lyra-i,NA,1064,1050,1070,NA,Compatible Lens 1,Gi1
+Laserscope,Lyra-i,NA,1064,1050,1070,NA,Compatible Lens 2,Pi8
+Laserscope,Stonelight,NA,2100,2090,2110,NA,Compatible Lens 1,Gi1
+Laserscope,Stonelight,NA,2100,2090,2110,NA,Compatible Lens 2,Pi23
+Laserscope,532,NA,532,520,540,NA,Compatible Lens 1,GiT1
+Laserscope,532,NA,532,520,540,NA,Compatible Lens 2,Pi3
+Laserscope,Aura,NA,532,520,540,NA,Compatible Lens 1,GiT1
+Laserscope,Aura,NA,532,520,540,NA,Compatible Lens 2,Pi3
+Laserscope,Aura i,NA,532,520,540,NA,Compatible Lens 1,GiT1
+Laserscope,Aura i,NA,532,520,540,NA,Compatible Lens 2,Pi3
+Laserscope,Aura StarPulse,NA,532,520,540,NA,Compatible Lens 1,GiT1
+Laserscope,Aura StarPulse,NA,532,520,540,NA,Compatible Lens 2,Pi3
+Laserscope,Venus-i,NA,2940,2930,2950,NA,Compatible Lens 1,Pi10
+Laserscope,Venus-i,NA,2940,2930,2950,NA,Compatible Lens 2,Gi1
+Laserscope,700,NA,1064/532,530,1070,NA,Compatible Lens 1,Pi3
+Laserscope,700,NA,1064/532,530,1070,NA,Compatible Lens 2,GiT1
+Laserscope,703,NA,1064/532,530,1070,NA,Compatible Lens 1,Pi3
+Laserscope,703,NA,1064/532,530,1070,NA,Compatible Lens 2,GiT1
+Laserscope,800,NA,1064/532,530,1070,NA,Compatible Lens 1,Pi3
+Laserscope,800,NA,1064/532,530,1070,NA,Compatible Lens 2,GiT1
+Laserscope,803,NA,1064/532,530,1070,NA,Compatible Lens 1,Pi3
+Laserscope,803,NA,1064/532,530,1070,NA,Compatible Lens 2,GiT1
+Laserscope,813,NA,1064/532,530,1070,NA,Compatible Lens 1,Pi3
+Laserscope,813,NA,1064/532,530,1070,NA,Compatible Lens 2,GiT1
+Laserscope,Gemini,NA,1064/532,530,1070,NA,Compatible Lens 1,Pi3
+Laserscope,Gemini,NA,1064/532,530,1070,NA,Compatible Lens 2,GiT1
+Laserscope,630 PDT,NA,630,620,640,We can add OD 4 620-640nm into spec,Compatible Lens 1,Pi7
+Light Age,Q-Clear,NA,1064,1050,1070,NA,Compatible Lens 1,Gi1
+Light Age,Q-Clear,NA,1064,1050,1070,NA,Compatible Lens 2,Pi8
+LightForce,XPI 25 Watt,NA,810/980,810,980,NA,Compatible Lens 1,Pi4
+LightForce,XPI 25 Watt,NA,810/980,810,980,NA,Compatible Lens 2,GiT5
+LightForce,XLI 40 Watt,NA,810/980,810,980,NA,Compatible Lens 1,Pi4
+LightForce,XLI 40 Watt,NA,810/980,810,980,NA,Compatible Lens 2,GiT5
+LightScalpel,LS-1005  (10Watt Dental),NA,10600,10599,10601,NA,Compatible Lens 1,Pi11
+LightScalpel,LS-1005  (10Watt Dental),NA,10600,10599,10601,NA,Compatible Lens 2,Gi1
+LightScalpel,LS-2010  (20Watt Dental),NA,10600,10599,10601,NA,Compatible Lens 1,Pi11
+LightScalpel,LS-2010  (20Watt Dental),NA,10600,10599,10601,NA,Compatible Lens 2,Gi1
+LightScalpel,LS-1005,NA,10600nm,NA,NA,NA,Compatible Lens 1,Pi19
+LightScalpel,LS-2010,NA,10600nm,NA,NA,NA,Compatible Lens 1,Pi19
+Lisa Laser,Sphinx 30W,NA,2123,2120,2130,NA,Compatible Lens 1,Gi1
+Lisa Laser,Sphinx 30W,NA,2123,2120,2130,NA,Compatible Lens 2,Pi23
+Lisa Laser,Sphinx 45W,NA,2123,2120,2130,NA,Compatible Lens 1,Gi1
+Lisa Laser,Sphinx 45W,NA,2123,2120,2130,NA,Compatible Lens 2,Pi23
+Lisa Laser,Sphinx 60W,NA,2123,2120,2130,NA,Compatible Lens 1,Gi1
+Lisa Laser,Sphinx 60W,NA,2123,2120,2130,NA,Compatible Lens 2,Pi23
+Lisa Laser,Sphinx 80W,NA,2123,2120,2130,NA,Compatible Lens 1,Gi1
+Lisa Laser,Sphinx 80W,NA,2123,2120,2130,NA,Compatible Lens 2,Pi23
+Lisa Laser,Sphinx 100W,NA,2123,2120,2130,NA,Compatible Lens 1,Gi1
+Lisa Laser,Sphinx 100W,NA,2123,2120,2130,NA,Compatible Lens 2,Pi23
+Lorad,SoftLight,NA,10600,10599,10601,NA,Compatible Lens 1,Pi11
+Lorad,SoftLight,NA,10600,10599,10601,NA,Compatible Lens 2,Gi1
+Lumenis,Aura-PT,NA,1064,1050,1070,NA,Compatible Lens 1,Gi1
+Lumenis,Aura-PT,NA,1064,1050,1070,NA,Compatible Lens 2,Pi8
+Lumenis,M22 handpiece #3,NA,1064,1050,1070,NA,Compatible Lens 1,Gi1
+Lumenis,M22 handpiece #3,NA,1064,1050,1070,NA,Compatible Lens 2,Pi8
+Lumenis,M22 handpiece #4,NA,1064,1050,1070,NA,Compatible Lens 1,Gi1
+Lumenis,M22 handpiece #4,NA,1064,1050,1070,NA,Compatible Lens 2,Pi8
+Lumenis,M22 Stellar handpiece #3,NA,1064,1050,1070,NA,Compatible Lens 1,Gi1
+Lumenis,M22 Stellar handpiece #3,NA,1064,1050,1070,NA,Compatible Lens 2,Pi8
+Lumenis,M22 Stellar handpiece #4,NA,1064,1050,1070,NA,Compatible Lens 1,Gi1
+Lumenis,M22 Stellar handpiece #4,NA,1064,1050,1070,NA,Compatible Lens 2,Pi8
+Lumenis,M22 handpiece #2,NA,1565,1560,1570,NA,Compatible Lens 1,Gi1
+Lumenis,M22 handpiece #2,NA,1565,1560,1570,NA,Compatible Lens 2,Pi5
+Lumenis,M22 Stellar handpiece #2,NA,1565,1560,1570,NA,Compatible Lens 1,Gi1
+Lumenis,M22 Stellar handpiece #2,NA,1565,1560,1570,NA,Compatible Lens 2,Pi5
+Lumenis,P20,NA,2100,2090,2110,NA,Compatible Lens 1,Gi1
+Lumenis,P20,NA,2100,2090,2110,NA,Compatible Lens 2,Pi23
+Lumenis,Pulse 100H,NA,2100,2090,2110,NA,Compatible Lens 1,Gi1
+Lumenis,Pulse 100H,NA,2100,2090,2110,NA,Compatible Lens 2,Pi23
+Lumenis,Pulse 120H (Moses) (hasp),NA,2100,2090,2110,NA,Compatible Lens 1,Gi1
+Lumenis,Pulse 120H (Moses) (hasp),NA,2100,2090,2110,NA,Compatible Lens 2,Pi23
+Lumenis,Pulse 30H  (laptop),NA,2100,2090,2110,NA,Compatible Lens 1,Gi1
+Lumenis,Pulse 30H  (laptop),NA,2100,2090,2110,NA,Compatible Lens 2,Pi23
+Lumenis,Pulse 50H,NA,2100,2090,2110,NA,Compatible Lens 1,Gi1
+Lumenis,Pulse 50H,NA,2100,2090,2110,NA,Compatible Lens 2,Pi23
+Lumenis,Pulse 60H  (hasp),NA,2100,2090,2110,NA,Compatible Lens 1,Gi1
+Lumenis,Pulse 60H  (hasp),NA,2100,2090,2110,NA,Compatible Lens 2,Pi23
+Lumenis,VersaPulse PowerSuite 100,NA,2100,2090,2110,NA,Compatible Lens 1,Gi1
+Lumenis,VersaPulse PowerSuite 100,NA,2100,2090,2110,NA,Compatible Lens 2,Pi23
+Lumenis,VersaPulse PowerSuite 60,NA,2100,2090,2110,NA,Compatible Lens 1,Gi1
+Lumenis,VersaPulse PowerSuite 60,NA,2100,2090,2110,NA,Compatible Lens 2,Pi23
+Lumenis,VP Powersuite 100,NA,2100,2090,2110,NA,Compatible Lens 1,Gi1
+Lumenis,VP Powersuite 100,NA,2100,2090,2110,NA,Compatible Lens 2,Pi23
+Lumenis,VP PowerSuite 20,NA,2100,2090,2110,NA,Compatible Lens 1,Gi1
+Lumenis,VP PowerSuite 20,NA,2100,2090,2110,NA,Compatible Lens 2,Pi23
+Lumenis,VP PowerSuite 30,NA,2100,2090,2110,NA,Compatible Lens 1,Gi1
+Lumenis,VP PowerSuite 30,NA,2100,2090,2110,NA,Compatible Lens 2,Pi23
+Lumenis,VP PowerSuite 60,NA,2100,2090,2110,NA,Compatible Lens 1,Gi1
+Lumenis,VP PowerSuite 60,NA,2100,2090,2110,NA,Compatible Lens 2,Pi23
+Lumenis,VersaPulse PowerSuite 80/100,NA,2100/1064,1060,2100,NA,Compatible Lens 1,Gi1
+Lumenis,VersaPulse PowerSuite 80/100,NA,2100/1064,1060,2100,NA,Compatible Lens 2,Pi23
+Lumenis,VP PowerSuite 80/100,NA,2100/1064,1060,2100,NA,Compatible Lens 1,Gi1
+Lumenis,VP PowerSuite 80/100,NA,2100/1064,1060,2100,NA,Compatible Lens 2,Pi23
+Lumenis,Novus Spectra,NA,532,520,540,NA,Compatible Lens 1,GiT1
+Lumenis,Novus Spectra,NA,532,520,540,NA,Compatible Lens 2,Pi3
+Lumenis,Novus Varia,NA,532,520,540,NA,Compatible Lens 1,GiT1
+Lumenis,Novus Varia,NA,532,520,540,NA,Compatible Lens 2,Pi3
+Lumenis,Lightsheer EP,NA,800,790,810,NA,Compatible Lens 1,Pi1
+Lumenis,Lightsheer EP,NA,800,790,810,NA,Compatible Lens 2,GiT5
+Lumenis,Lightsheer ET,NA,800,790,810,NA,Compatible Lens 1,Pi1
+Lumenis,Lightsheer ET,NA,800,790,810,NA,Compatible Lens 2,GiT5
+Lumenis,Lightsheer XC,NA,800,790,810,NA,Compatible Lens 1,Pi1
+Lumenis,Lightsheer XC,NA,800,790,810,NA,Compatible Lens 2,GiT5
+Lumenis,Lightsheer Desire,NA,805  (3) handpiece sizes,800,810,NA,Compatible Lens 1,Pi1
+Lumenis,Lightsheer Desire,NA,805  (3) handpiece sizes,800,810,NA,Compatible Lens 2,Pi16
+Lumenis,AcuPulse 30/40A,NA,10600,10599,10601,NA,Compatible Lens 1,Pi11
+Lumenis,AcuPulse 30/40A,NA,10600,10599,10601,NA,Compatible Lens 2,Gi1
+Lumenis,AcuPulse 40 w/Femitouch,NA,10600,10599,10601,NA,Compatible Lens 1,Pi11
+Lumenis,AcuPulse 40 w/Femitouch,NA,10600,10599,10601,NA,Compatible Lens 2,Gi1
+Lumenis,AcuPulse 40WG  (waveguide only),NA,10600,10599,10601,NA,Compatible Lens 1,Pi11
+Lumenis,AcuPulse 40WG  (waveguide only),NA,10600,10599,10601,NA,Compatible Lens 2,Gi1
+Lumenis,AcuPulse Duo,NA,10600,10599,10601,NA,Compatible Lens 1,Pi11
+Lumenis,AcuPulse Duo,NA,10600,10599,10601,NA,Compatible Lens 2,Gi1
+Lumenis,Smart 532,NA,10600,10599,10601,NA,Compatible Lens 1,Pi11
+Lumenis,Smart 532,NA,10600,10599,10601,NA,Compatible Lens 2,Gi1
+Lumenis,UltraPulse Duo,NA,10600,10599,10601,NA,Compatible Lens 1,Pi11
+Lumenis,UltraPulse Duo,NA,10600,10599,10601,NA,Compatible Lens 2,Gi1
+Lumenis,UltraPulse Encore,NA,10600,10599,10601,NA,Compatible Lens 1,Pi11
+Lumenis,UltraPulse Encore,NA,10600,10599,10601,NA,Compatible Lens 2,Gi1
+Lumenis,UltraPulse Surgitouch,NA,10600,10599,10601,NA,Compatible Lens 1,Pi11
+Lumenis,UltraPulse Surgitouch,NA,10600,10599,10601,NA,Compatible Lens 2,Gi1
+Lumenis,UltraPulse Total FX,NA,10600,10599,10601,NA,Compatible Lens 1,Pi11
+Lumenis,UltraPulse Total FX,NA,10600,10599,10601,NA,Compatible Lens 2,Gi1
+Lumenis,Acupulse 30ST/40ST   (Surgitouch),NA,10600,10599,10601,NA,Compatible Lens 1,Pi11
+Lumenis,Acupulse 30ST/40ST   (Surgitouch),NA,10600,10599,10601,NA,Compatible Lens 2,Gi1
+Lumenis,M22 Stellar,NA,4 Handpiece capable,NA,NA,NA,Compatible Lens 1,Pi14
+Lumenis,M22 handpiece #1,NA,400-1200,NA,NA,NA,Compatible Lens 1,Pi14
+Lumenis,M22 Stellar handpiece #1,NA,400-1200,NA,NA,NA,Compatible Lens 1,Pi14
+Lumenis,Selecta II (SLT),NA,Q-Switched 532,530,540,NA,Compatible Lens 1,Pi3
+Lumenis,Selecta II (SLT),NA,Q-Switched 532,530,540,NA,Compatible Lens 2,GiT1
+Lumenis,Digital Duet,NA,1064/532,530,1070,NA,Compatible Lens 1,Pi3
+Lumenis,Digital Duet,NA,1064/532,530,1070,NA,Compatible Lens 2,GiT1
+Lumenis,Selecta Duet (Coherent Version),NA,1064/532,530,1070,NA,Compatible Lens 1,Pi3
+Lumenis,Selecta Duet (Coherent Version),NA,1064/532,530,1070,NA,Compatible Lens 2,GiT1
+Lumenis,Selecta Duet (LX version),NA,1064/532,530,1070,NA,Compatible Lens 1,Pi3
+Lumenis,Selecta Duet (LX version),NA,1064/532,530,1070,NA,Compatible Lens 2,GiT1
+Lumenis,Digital Trio,NA,1064/532/532,530,1070,NA,Compatible Lens 1,Pi3
+Lumenis,Digital Trio,NA,1064/532/532,530,1070,NA,Compatible Lens 2,GiT1
+Lumenis,Selecta Trio (2 lasers),NA,1064/532/DPSS532 combo,530,1070,NA,Compatible Lens 1,Pi3
+Lumenis,Selecta Trio (2 lasers),NA,1064/532/DPSS532 combo,530,1070,NA,Compatible Lens 2,GiT1
+Lumenis,Splendor X,NA,755/1064,750,1070,NA,Compatible Lens 1,Pi4
+Lumenis,Splendor X,NA,755/1064,750,1070,NA,Compatible Lens 2,GiT5
+Lumenis,Lightsheer Infinity,NA,805/1060,805,1060,NA,Compatible Lens 1,Pi4
+Lumenis,Lightsheer Infinity,NA,805/1060,805,1060,NA,Compatible Lens 2,GiT5
+Lumenis,Lightsheer Duet,NA,805/1060,805,1060,NA,Compatible Lens 1,Pi4
+Lumenis,Lightsheer Duet,NA,805/1060,805,1060,NA,Compatible Lens 2,GiT5
+Lumenis,Lightsheer Quattro,NA,805/1060,805,1060,NA,Compatible Lens 1,Pi4
+Lumenis,Lightsheer Quattro,NA,805/1060,805,1060,NA,Compatible Lens 2,GiT5
+Luxar,LX20,NA,10600,10599,10601,NA,Compatible Lens 1,Pi11
+Luxar,LX20,NA,10600,10599,10601,NA,Compatible Lens 2,Gi1
+Luxar,LX-20i,NA,10600,10599,10601,NA,Compatible Lens 1,Pi11
+Luxar,LX-20i,NA,10600,10599,10601,NA,Compatible Lens 2,Gi1
+Luxar,LX-20SP,NA,10600,10599,10601,NA,Compatible Lens 1,Pi11
+Luxar,LX-20SP,NA,10600,10599,10601,NA,Compatible Lens 2,Gi1
+Luxar,NovaPulse,NA,10600,10599,10601,NA,Compatible Lens 1,Pi11
+Luxar,NovaPulse,NA,10600,10599,10601,NA,Compatible Lens 2,Gi1
+Meditek,QL15,NA,1064,1050,1070,NA,Compatible Lens 1,Gi1
+Meditek,QL15,NA,1064,1050,1070,NA,Compatible Lens 2,Pi8
+MedX,1100 (450mW Handhelp array),NA,1470  (10W),1460,1480,NA,Compatible Lens 1,Gi1
+MedX,1100 (450mW Handhelp array),NA,1470  (10W),1460,1480,NA,Compatible Lens 2,Pi5
+Millennium Dental Technologies,PerioLase MVP-7,NA,1064,1050,1070,NA,Compatible Lens 1,Gi1
+Millennium Dental Technologies,PerioLase MVP-7,NA,1064,1050,1070,NA,Compatible Lens 2,Pi8
+Newstar/Cooltouch Lasers,CT3Plus,NA,1064,1050,1070,NA,Compatible Lens 1,Gi1
+Newstar/Cooltouch Lasers,CT3Plus,NA,1064,1050,1070,NA,Compatible Lens 2,Pi8
+Newstar/Cooltouch Lasers,CT3PZ,NA,1064,1050,1070,NA,Compatible Lens 1,Gi1
+Newstar/Cooltouch Lasers,CT3PZ,NA,1064,1050,1070,NA,Compatible Lens 2,Pi8
+Newstar/Cooltouch Lasers,CTV3,NA,1064,1050,1070,NA,Compatible Lens 1,Gi1
+Newstar/Cooltouch Lasers,CTV3,NA,1064,1050,1070,NA,Compatible Lens 2,Pi8
+Newstar/Cooltouch Lasers,CTVBZS,NA,1064,1050,1070,NA,Compatible Lens 1,Gi1
+Newstar/Cooltouch Lasers,CTVBZS,NA,1064,1050,1070,NA,Compatible Lens 2,Pi8
+Newstar/Cooltouch Lasers,LC225 (Trio),NA,1064,1050,1070,NA,Compatible Lens 1,Gi1
+Newstar/Cooltouch Lasers,LC225 (Trio),NA,1064,1050,1070,NA,Compatible Lens 2,Pi8
+Newstar/Cooltouch Lasers,Cooltouch I,NA,1320,1310,1330,NA,Compatible Lens 1,Gi1
+Newstar/Cooltouch Lasers,Cooltouch I,NA,1320,1310,1330,NA,Compatible Lens 2,Pi5
+Newstar/Cooltouch Lasers,Cooltouch II,NA,1320,1310,1330,NA,Compatible Lens 1,Gi1
+Newstar/Cooltouch Lasers,Cooltouch II,NA,1320,1310,1330,NA,Compatible Lens 2,Pi5
+Newstar/Cooltouch Lasers,Cooltouch III,NA,1320,1310,1330,NA,Compatible Lens 1,Gi1
+Newstar/Cooltouch Lasers,Cooltouch III,NA,1320,1310,1330,NA,Compatible Lens 2,Pi5
+Newstar/Cooltouch Lasers,Cooltouch III S,NA,1320,1310,1330,NA,Compatible Lens 1,Gi1
+Newstar/Cooltouch Lasers,Cooltouch III S,NA,1320,1310,1330,NA,Compatible Lens 2,Pi5
+Newstar/Cooltouch Lasers,NS 130,NA,1320,1310,1330,NA,Compatible Lens 1,Gi1
+Newstar/Cooltouch Lasers,NS 130,NA,1320,1310,1330,NA,Compatible Lens 2,Pi5
+Newstar/Cooltouch Lasers,NS 1500,NA,1320,1310,1330,NA,Compatible Lens 1,Gi1
+Newstar/Cooltouch Lasers,NS 1500,NA,1320,1310,1330,NA,Compatible Lens 2,Pi5
+Newstar/Cooltouch Lasers,NS 160 CT EV,NA,1320,1310,1330,NA,Compatible Lens 1,Gi1
+Newstar/Cooltouch Lasers,NS 160 CT EV,NA,1320,1310,1330,NA,Compatible Lens 2,Pi5
+Newstar/Cooltouch Lasers,NS160 - 10Watt,NA,1320,1310,1330,NA,Compatible Lens 1,Gi1
+Newstar/Cooltouch Lasers,NS160 - 10Watt,NA,1320,1310,1330,NA,Compatible Lens 2,Pi5
+Newstar/Cooltouch Lasers,NS160-10W-CTEV,NA,1320,1310,1330,NA,Compatible Lens 1,Gi1
+Newstar/Cooltouch Lasers,NS160-10W-CTEV,NA,1320,1310,1330,NA,Compatible Lens 2,Pi5
+Newstar/Cooltouch Lasers,NS160-15W,NA,1320,1310,1330,NA,Compatible Lens 1,Gi1
+Newstar/Cooltouch Lasers,NS160-15W,NA,1320,1310,1330,NA,Compatible Lens 2,Pi5
+Newstar/Cooltouch Lasers,NS160-CL,NA,1320,1310,1330,NA,Compatible Lens 1,Gi1
+Newstar/Cooltouch Lasers,NS160-CL,NA,1320,1310,1330,NA,Compatible Lens 2,Pi5
+Newstar/Cooltouch Lasers,Prima,NA,IPL,NA,NA,NA,Compatible Lens 1,Pi14
+Nidek,YC 1200,NA,1064,1050,1070,NA,Compatible Lens 1,Gi1
+Nidek,YC 1200,NA,1064,1050,1070,NA,Compatible Lens 2,Pi8
+Nidek,YC 1400 YAG,NA,1064,1050,1070,NA,Compatible Lens 1,Gi1
+Nidek,YC 1400 YAG,NA,1064,1050,1070,NA,Compatible Lens 2,Pi8
+Nidek,YC 1600,NA,1064,1050,1070,NA,Compatible Lens 1,Gi1
+Nidek,YC 1600,NA,1064,1050,1070,NA,Compatible Lens 2,Pi8
+Nidek,YC 1800,NA,1064,1050,1070,NA,Compatible Lens 1,Gi1
+Nidek,YC 1800,NA,1064,1050,1070,NA,Compatible Lens 2,Pi8
+Nidek,YC1800,NA,1064,1050,1070,NA,Compatible Lens 1,Gi1
+Nidek,YC1800,NA,1064,1050,1070,NA,Compatible Lens 2,Pi8
+Nidek,YC200 YAG,NA,1064,1050,1070,NA,Compatible Lens 1,Gi1
+Nidek,YC200 YAG,NA,1064,1050,1070,NA,Compatible Lens 2,Pi8
+Nidek,GYC 500,NA,532,520,540,NA,Compatible Lens 1,GiT1
+Nidek,GYC 500,NA,532,520,540,NA,Compatible Lens 2,Pi3
+Nidek,GYC 500D,NA,532,520,540,NA,Compatible Lens 1,GiT1
+Nidek,GYC 500D,NA,532,520,540,NA,Compatible Lens 2,Pi3
+Nidek,GYC 500 Vixi,NA,532,520,540,NA,Compatible Lens 1,GiT1
+Nidek,GYC 500 Vixi,NA,532,520,540,NA,Compatible Lens 2,Pi3
+Nidek,GYC 1000 Diode,NA,532,520,540,NA,Compatible Lens 1,GiT1
+Nidek,GYC 1000 Diode,NA,532,520,540,NA,Compatible Lens 2,Pi3
+Nidek,GYC 1500 (Prima),NA,532,520,540,NA,Compatible Lens 1,GiT1
+Nidek,GYC 1500 (Prima),NA,532,520,540,NA,Compatible Lens 2,Pi3
+Nidek,GYC 2000,NA,532,520,540,NA,Compatible Lens 1,GiT1
+Nidek,GYC 2000,NA,532,520,540,NA,Compatible Lens 2,Pi3
+Nidek,COL 1040,NA,10600,10599,10601,NA,Compatible Lens 1,Pi11
+Nidek,COL 1040,NA,10600,10599,10601,NA,Compatible Lens 2,Gi1
+Nidek,YC1800/GYC-1000 Combo,NA,1064/532 combo,530,1070,NA,Compatible Lens 1,Pi3
+Nidek,YC1800/GYC-1000 Combo,NA,1064/532 combo,530,1070,NA,Compatible Lens 2,GiT1
+NovadaQ/PLC Medical System,Heart Laser II,NA,10600,10599,10601,NA,Compatible Lens 1,Pi11
+NovadaQ/PLC Medical System,Heart Laser II,NA,10600,10599,10601,NA,Compatible Lens 2,Gi1
+Olympus,Soltive,NA,1940,1930,1950,NA,Compatible Lens 1,Gi1
+Olympus,Soltive,NA,1940,1930,1950,NA,Compatible Lens 2,Pi23
+Olympus,EmPower H35,NA,2100,2090,2110,NA,Compatible Lens 1,Gi1
+Olympus,EmPower H35,NA,2100,2090,2110,NA,Compatible Lens 2,Pi23
+Olympus,Empower H65,NA,2100,2090,2110,NA,Compatible Lens 1,Gi1
+Olympus,Empower H65,NA,2100,2090,2110,NA,Compatible Lens 2,Pi23
+Omniguide,C-Las,NA,10600,10599,10601,NA,Compatible Lens 1,Pi11
+Omniguide,C-Las,NA,10600,10599,10601,NA,Compatible Lens 2,Gi1
+Omniguide,Fels 25A,NA,10600,10599,10601,NA,Compatible Lens 1,Pi11
+Omniguide,Fels 25A,NA,10600,10599,10601,NA,Compatible Lens 2,Gi1
+Omniguide,FELS-25A w/Intelliguide,NA,10600,10599,10601,NA,Compatible Lens 1,Pi11
+Omniguide,FELS-25A w/Intelliguide,NA,10600,10599,10601,NA,Compatible Lens 2,Gi1
+Omniguide,Beacon,NA,10600,10599,10601,NA,Compatible Lens 1,Pi11
+Omniguide,Beacon,NA,10600,10599,10601,NA,Compatible Lens 2,Gi1
+OmniGuide/Lisa Laser,Revolix  (70 Watt),NA,2013,2010,2020,NA,Compatible Lens 1,Gi1
+OmniGuide/Lisa Laser,Revolix  (70 Watt),NA,2013,2010,2020,NA,Compatible Lens 2,Pi23
+OmniGuide/Lisa Laser,Revolix (120 Watt),NA,2013,2010,2020,NA,Compatible Lens 1,Gi1
+OmniGuide/Lisa Laser,Revolix (120 Watt),NA,2013,2010,2020,NA,Compatible Lens 2,Pi23
+OmniGuide/Lisa Laser,Revolix Jr.  (15 Watt),NA,2013,2010,2020,NA,Compatible Lens 1,Gi1
+OmniGuide/Lisa Laser,Revolix Jr.  (15 Watt),NA,2013,2010,2020,NA,Compatible Lens 2,Pi23
+OmniGuide/Lisa Laser,Revolix (200 Watt),NA,2013 & 2123,2010,2130,NA,Compatible Lens 1,Gi1
+OmniGuide/Lisa Laser,Revolix (200 Watt),NA,2013 & 2123,2010,2130,NA,Compatible Lens 2,Pi23
+OmniGuide/Lisa Laser,Revolix Duo 150/20 & 20,NA,2013 & 2123,2010,2130,NA,Compatible Lens 1,Gi1
+OmniGuide/Lisa Laser,Revolix Duo 150/20 & 20,NA,2013 & 2123,2010,2130,NA,Compatible Lens 2,Pi23
+Palomar,Q-YAG5,NA,1064/532,530,1070,NA,Compatible Lens 1,Pi3
+Palomar,Q-YAG5,NA,1064/532,530,1070,NA,Compatible Lens 2,GiT1
+PhotoMedex,LaserPro CTH,NA,2100,2090,2110,NA,Compatible Lens 1,Gi1
+PhotoMedex,LaserPro CTH,NA,2100,2090,2110,NA,Compatible Lens 2,Pi23
+PhotoMedex,Xtrac,NA,308,300,310,NA,Compatible Lens 1,Pi11
+PhotoMedex,LaserPro CO2,NA,10600,10599,10601,NA,Compatible Lens 1,Pi11
+PhotoMedex,LaserPro CO2,NA,10600,10599,10601,NA,Compatible Lens 2,Gi1
+Quanta,Litho 35 Watt (PVMS00037),NA,2100,2090,2110,NA,Compatible Lens 1,Gi1
+Quanta,Litho 35 Watt (PVMS00037),NA,2100,2090,2110,NA,Compatible Lens 2,Pi23
+Quanta,Litho 60  (60 Watt),NA,2100,2090,2110,NA,Compatible Lens 1,Gi1
+Quanta,Litho 60  (60 Watt),NA,2100,2090,2110,NA,Compatible Lens 2,Pi23
+Quanta,Litho 100  (100 Watt),NA,2100,2090,2110,NA,Compatible Lens 1,Gi1
+Quanta,Litho 100  (100 Watt),NA,2100,2090,2110,NA,Compatible Lens 2,Pi23
+Quanta,Litho 150 (150 Watt),NA,2100,2090,2110,NA,Compatible Lens 1,Gi1
+Quanta,Litho 150 (150 Watt),NA,2100,2090,2110,NA,Compatible Lens 2,Pi23
+Quantel / Lumibird / Ellex,Optimis II,NA,1064,1050,1070,NA,Compatible Lens 1,Gi1
+Quantel / Lumibird / Ellex,Optimis II,NA,1064,1050,1070,NA,Compatible Lens 2,Pi8
+Quantel / Lumibird / Ellex,Vitra 532,NA,532,520,540,NA,Compatible Lens 1,GiT1
+Quantel / Lumibird / Ellex,Vitra 532,NA,532,520,540,NA,Compatible Lens 2,Pi3
+Quantel / Lumibird / Ellex,Vitra 810,NA,810,800,820,NA,Compatible Lens 1,Pi1
+Quantel / Lumibird / Ellex,Vitra 810,NA,810,800,820,NA,Compatible Lens 2,GiT5
+Rian,LTU-904,NA,904,900,910,NA,Compatible Lens 1,Pi4
+Rian,LTU-904,NA,904,900,910,NA,Compatible Lens 2,GiT5
+Sciton Lasers,mJoule w/ Moxi and BBL Hero,NA,1927/BBL,1920,1930,NA,Compatible Lens 1,Gi1
+Sciton Lasers,mJoule w/ Moxi and BBL Hero,NA,1927/BBL,1920,1930,NA,Compatible Lens 2,Pi23
+Sciton Lasers,mJoule w/ Moxi and BBL Hero,NA,1927/BBL,1920,1930,NA,Special Case,Pi14
+Sciton Lasers,Contour,NA,2940,2930,2950,NA,Compatible Lens 1,Pi10
+Sciton Lasers,Contour,NA,2940,2930,2950,NA,Compatible Lens 2,Gi1
+Sharplan/ESC Medical Systems,2100 / 3000,NA,1064,1050,1070,NA,Compatible Lens 1,Gi1
+Sharplan/ESC Medical Systems,2100 / 3000,NA,1064,1050,1070,NA,Compatible Lens 2,Pi8
+Sharplan/ESC Medical Systems,2025,NA,2100,2090,2110,NA,Compatible Lens 1,Gi1
+Sharplan/ESC Medical Systems,2025,NA,2100,2090,2110,NA,Compatible Lens 2,Pi23
+Sharplan/ESC Medical Systems,Derma 20,NA,2940,2930,2950,NA,Compatible Lens 1,Pi10
+Sharplan/ESC Medical Systems,Derma 20,NA,2940,2930,2950,NA,Compatible Lens 2,Gi1
+Sharplan/ESC Medical Systems,1020,NA,10600,10599,10601,NA,Compatible Lens 1,Pi11
+Sharplan/ESC Medical Systems,1020,NA,10600,10599,10601,NA,Compatible Lens 2,Gi1
+Sharplan/ESC Medical Systems,1030,NA,10600,10599,10601,NA,Compatible Lens 1,Pi11
+Sharplan/ESC Medical Systems,1030,NA,10600,10599,10601,NA,Compatible Lens 2,Gi1
+Sharplan/ESC Medical Systems,1039,NA,10600,10599,10601,NA,Compatible Lens 1,Pi11
+Sharplan/ESC Medical Systems,1039,NA,10600,10599,10601,NA,Compatible Lens 2,Gi1
+Sharplan/ESC Medical Systems,1040,NA,10600,10599,10601,NA,Compatible Lens 1,Pi11
+Sharplan/ESC Medical Systems,1040,NA,10600,10599,10601,NA,Compatible Lens 2,Gi1
+Sharplan/ESC Medical Systems,1041,NA,10600,10599,10601,NA,Compatible Lens 1,Pi11
+Sharplan/ESC Medical Systems,1041,NA,10600,10599,10601,NA,Compatible Lens 2,Gi1
+Sharplan/ESC Medical Systems,1050,NA,10600,10599,10601,NA,Compatible Lens 1,Pi11
+Sharplan/ESC Medical Systems,1050,NA,10600,10599,10601,NA,Compatible Lens 2,Gi1
+Sharplan/ESC Medical Systems,1055,NA,10600,10599,10601,NA,Compatible Lens 1,Pi11
+Sharplan/ESC Medical Systems,1055,NA,10600,10599,10601,NA,Compatible Lens 2,Gi1
+Sharplan/ESC Medical Systems,1060,NA,10600,10599,10601,NA,Compatible Lens 1,Pi11
+Sharplan/ESC Medical Systems,1060,NA,10600,10599,10601,NA,Compatible Lens 2,Gi1
+Sharplan/ESC Medical Systems,1075,NA,10600,10599,10601,NA,Compatible Lens 1,Pi11
+Sharplan/ESC Medical Systems,1075,NA,10600,10599,10601,NA,Compatible Lens 2,Gi1
+Sharplan/ESC Medical Systems,1100,NA,10600,10599,10601,NA,Compatible Lens 1,Pi11
+Sharplan/ESC Medical Systems,1100,NA,10600,10599,10601,NA,Compatible Lens 2,Gi1
+Sharplan/ESC Medical Systems,1040C,NA,10600,10599,10601,NA,Compatible Lens 1,Pi11
+Sharplan/ESC Medical Systems,1040C,NA,10600,10599,10601,NA,Compatible Lens 2,Gi1
+Sharplan/ESC Medical Systems,1041S,NA,10600,10599,10601,NA,Compatible Lens 1,Pi11
+Sharplan/ESC Medical Systems,1041S,NA,10600,10599,10601,NA,Compatible Lens 2,Gi1
+Sharplan/ESC Medical Systems,1055S,NA,10600,10599,10601,NA,Compatible Lens 1,Pi11
+Sharplan/ESC Medical Systems,1055S,NA,10600,10599,10601,NA,Compatible Lens 2,Gi1
+Sharplan/ESC Medical Systems,1080 Silktouch,NA,10600,10599,10601,NA,Compatible Lens 1,Pi11
+Sharplan/ESC Medical Systems,1080 Silktouch,NA,10600,10599,10601,NA,Compatible Lens 2,Gi1
+Sharplan/ESC Medical Systems,150XJ,NA,10600,10599,10601,NA,Compatible Lens 1,Pi11
+Sharplan/ESC Medical Systems,150XJ,NA,10600,10599,10601,NA,Compatible Lens 2,Gi1
+Sharplan/ESC Medical Systems,20C,NA,10600,10599,10601,NA,Compatible Lens 1,Pi11
+Sharplan/ESC Medical Systems,20C,NA,10600,10599,10601,NA,Compatible Lens 2,Gi1
+Sharplan/ESC Medical Systems,30C,NA,10600,10599,10601,NA,Compatible Lens 1,Pi11
+Sharplan/ESC Medical Systems,30C,NA,10600,10599,10601,NA,Compatible Lens 2,Gi1
+Sharplan/ESC Medical Systems,40C,NA,10600,10599,10601,NA,Compatible Lens 1,Pi11
+Sharplan/ESC Medical Systems,40C,NA,10600,10599,10601,NA,Compatible Lens 2,Gi1
+Sharplan/ESC Medical Systems,60XJ,NA,10600,10599,10601,NA,Compatible Lens 1,Pi11
+Sharplan/ESC Medical Systems,60XJ,NA,10600,10599,10601,NA,Compatible Lens 2,Gi1
+Sharplan/ESC Medical Systems,80XJ,NA,10600,10599,10601,NA,Compatible Lens 1,Pi11
+Sharplan/ESC Medical Systems,80XJ,NA,10600,10599,10601,NA,Compatible Lens 2,Gi1
+Sharplan/ESC Medical Systems,150,NA,10600,10599,10601,NA,Compatible Lens 1,Pi11
+Sharplan/ESC Medical Systems,150,NA,10600,10599,10601,NA,Compatible Lens 2,Gi1
+Sharplan/ESC Medical Systems,Photoderm Vasculight,NA,755,750,760,NA,Compatible Lens 1,Pi16
+Sharplan/ESC Medical Systems,Photoderm Vasculight,NA,755,750,760,NA,Compatible Lens 2,GiT1
+Sharplan/ESC Medical Systems,Derma K,NA,2940/10600,2930,2950,NA,Compatible Lens 1,Pi23
+Sharplan/ESC Medical Systems,Derma K,NA,2940/10600,2930,2950,NA,Compatible Lens 2,Gi1
+Sirona Dentsply,Siro Blue,NA,"440-450nm OD5, 655-665nm OD1, 960-985nm OD5",NA,NA,NA,Compatible Lens 1,Pi17
+SLT,CL 100,NA,1064,1050,1070,NA,Compatible Lens 1,Gi1
+SLT,CL 100,NA,1064,1050,1070,NA,Compatible Lens 2,Pi8
+SLT/Photomedex,CL 60,NA,1064,1050,1070,NA,Compatible Lens 1,Gi1
+SLT/Photomedex,CL 60,NA,1064,1050,1070,NA,Compatible Lens 2,Pi8
+SLT/Photomedex,CLMD,NA,1064,1050,1070,NA,Compatible Lens 1,Gi1
+SLT/Photomedex,CLMD,NA,1064,1050,1070,NA,Compatible Lens 2,Pi8
+SLT/Photomedex,CLMD 40/60,NA,1064,1050,1070,NA,Compatible Lens 1,Gi1
+SLT/Photomedex,CLMD 40/60,NA,1064,1050,1070,NA,Compatible Lens 2,Pi8
+SLT/Photomedex,CLMD DUAL,NA,1064,1050,1070,NA,Compatible Lens 1,Gi1
+SLT/Photomedex,CLMD DUAL,NA,1064,1050,1070,NA,Compatible Lens 2,Pi8
+Solta Medical / Clear + Brilliant,handpiece (only),NA,1440,1430,1450,NA,Compatible Lens 1,Gi1
+Solta Medical / Clear + Brilliant,handpiece (only),NA,1440,1430,1450,NA,Compatible Lens 2,Pi5
+Solta Medical / Clear + Brilliant,Permea Handpiece (only),NA,1927,1930,1940,NA,Compatible Lens 1,Gi1
+Solta Medical / Clear + Brilliant,Permea Handpiece (only),NA,1927,1930,1940,NA,Compatible Lens 2,Pi23
+Solta Medical / Reliant,Reliant Fraxel 1500,NA,1550,1540,1560,NA,Compatible Lens 1,Gi1
+Solta Medical / Reliant,Reliant Fraxel 1500,NA,1550,1540,1560,NA,Compatible Lens 2,Pi5
+Solta Medical / Reliant,Reliant Fraxel Restore,NA,1550,1540,1560,NA,Compatible Lens 1,Gi1
+Solta Medical / Reliant,Reliant Fraxel Restore,NA,1550,1540,1560,NA,Compatible Lens 2,Pi5
+Solta Medical / Reliant,Reliant Fraxel Dual,NA,"1550, 1927",1540,1930,NA,Compatible Lens 1,Gi1
+Solta Medical / Reliant,Reliant Fraxel Dual,NA,"1550, 1927",1540,1930,NA,Compatible Lens 2,GiT5
+Solta Medical / Reliant,Reliant Fraxel SR 1500,NA,"1550, 1927",1540,1930,NA,Compatible Lens 1,Gi1
+Solta Medical / Reliant,Reliant Fraxel SR 1500,NA,"1550, 1927",1540,1930,NA,Compatible Lens 2,GiT5
+Solta Medical / Reliant,Reliant Fraxel Restore Dual,NA,"1550, 1927",1540,1930,NA,Compatible Lens 1,Gi1
+Solta Medical / Reliant,Reliant Fraxel Restore Dual,NA,"1550, 1927",1540,1930,NA,Compatible Lens 2,GiT5
+Solta Medical / Reliant,Reliant Fraxel repair,NA,10600,10599,10601,NA,Compatible Lens 1,Pi11
+Solta Medical / Reliant,Reliant Fraxel repair,NA,10600,10599,10601,NA,Compatible Lens 2,Gi1
+Spectranetics,CVX300,NA,308,300,310,NA,Compatible Lens 1,Pi11
+Spectrum,RD1200,NA,695,690,700,NA,Compatible Lens 1,GiT1
+SSI,MD60,NA,10600,10599,10601,NA,Compatible Lens 1,Pi11
+SSI,MD60,NA,10600,10599,10601,NA,Compatible Lens 2,Gi1
+SSI,Ultra MD 40/60W,NA,10600,10599,10601,NA,Compatible Lens 1,Pi11
+SSI,Ultra MD 40/60W,NA,10600,10599,10601,NA,Compatible Lens 2,Gi1
+SSI,Ultra MD40,NA,10600,10599,10601,NA,Compatible Lens 1,Pi11
+SSI,Ultra MD40,NA,10600,10599,10601,NA,Compatible Lens 2,Gi1
+SSI,UltraMD,NA,10600,10599,10601,NA,Compatible Lens 1,Pi11
+SSI,UltraMD,NA,10600,10599,10601,NA,Compatible Lens 2,Gi1
+Surgilase/SLS,100,NA,10600,10599,10601,NA,Compatible Lens 1,Pi11
+Surgilase/SLS,100,NA,10600,10599,10601,NA,Compatible Lens 2,Gi1
+Surgilase/SLS,150XJ,NA,10600,10599,10601,NA,Compatible Lens 1,Pi11
+Surgilase/SLS,150XJ,NA,10600,10599,10601,NA,Compatible Lens 2,Gi1
+Surgilase/SLS,SLS 25,NA,10600,10599,10601,NA,Compatible Lens 1,Pi11
+Surgilase/SLS,SLS 25,NA,10600,10599,10601,NA,Compatible Lens 2,Gi1
+Surgilase/SLS,SLS 40,NA,10600,10599,10601,NA,Compatible Lens 1,Pi11
+Surgilase/SLS,SLS 40,NA,10600,10599,10601,NA,Compatible Lens 2,Gi1
+Surgilase/SLS,SLS 45,NA,10600,10599,10601,NA,Compatible Lens 1,Pi11
+Surgilase/SLS,SLS 45,NA,10600,10599,10601,NA,Compatible Lens 2,Gi1
+Surgilase/SLS,SLS 60,NA,10600,10599,10601,NA,Compatible Lens 1,Pi11
+Surgilase/SLS,SLS 60,NA,10600,10599,10601,NA,Compatible Lens 2,Gi1
+Syneron,Emax,NA,(700-1200) & RF,700,1200,NA,Compatible Lens 1,GiT7
+Syneron,Aurora,NA,700-1200,700,1200,NA,Compatible Lens 1,GiT7
+The Chattanoga Group,Vectra Genysis,NA,10600,10599,10601,NA,Compatible Lens 1,Pi11
+The Chattanoga Group,Vectra Genysis,NA,10600,10599,10601,NA,Compatible Lens 2,Gi1
+THOR,810nm Infra Red Single Laser Dental Probe,NA,810nm OD 3,NA,NA,NA,Compatible Lens 1,Pi1
+THOR,810nm 1W laser cluster (5 x 200mW),NA,810nm OD 4,NA,NA,NA,Compatible Lens 1,Pi1
+THOR,810nm 200mW single laser probe,NA,810nm OD 3,NA,NA,NA,Compatible Lens 1,Pi1
+Trimedyne Lasers,OmniPulse,NA,2100,2090,2110,NA,Compatible Lens 1,Gi1
+Trimedyne Lasers,OmniPulse,NA,2100,2090,2110,NA,Compatible Lens 2,Pi23
+Trimedyne Lasers,OmniPulse Max 1210,NA,2100,2090,2110,NA,Compatible Lens 1,Gi1
+Trimedyne Lasers,OmniPulse Max 1210,NA,2100,2090,2110,NA,Compatible Lens 2,Pi23
+Ultradent,Gemini Laser,NA,810nm / 980nm,NA,NA,NA,Compatible Lens 1,Pi17
+Union Medical,UM-L25,NA,10600,10599,10601,NA,Compatible Lens 1,Pi11
+Union Medical,UM-L25,NA,10600,10599,10601,NA,Compatible Lens 2,Gi1
+Xanar,XAM 15,NA,10600,10599,10601,NA,Compatible Lens 1,Pi11
+Xanar,XAM 15,NA,10600,10599,10601,NA,Compatible Lens 2,Gi1
+Xanar,XAM 20,NA,10600,10599,10601,NA,Compatible Lens 1,Pi11
+Xanar,XAM 20,NA,10600,10599,10601,NA,Compatible Lens 2,Gi1
+Xintec/Convergent Laser Technologies,Odyssey 30,NA,2100,2090,2110,NA,Compatible Lens 1,Gi1
+Xintec/Convergent Laser Technologies,Odyssey 30,NA,2100,2090,2110,NA,Compatible Lens 2,Pi23
+Xintec/Convergent Laser Technologies,Optica 60,NA,2100,2090,2110,NA,Compatible Lens 1,Gi1
+Xintec/Convergent Laser Technologies,Optica 60,NA,2100,2090,2110,NA,Compatible Lens 2,Pi23
+Zeiss,Visulas  YAG II,NA,1064,1050,1070,NA,Compatible Lens 1,Gi1
+Zeiss,Visulas  YAG II,NA,1064,1050,1070,NA,Compatible Lens 2,Pi8
+Zeiss,Visulas III,NA,1064,1050,1070,NA,Compatible Lens 1,Gi1
+Zeiss,Visulas III,NA,1064,1050,1070,NA,Compatible Lens 2,Pi8
+Zeiss,Visulas YAG III,NA,1064,1050,1070,NA,Compatible Lens 1,Gi1
+Zeiss,Visulas YAG III,NA,1064,1050,1070,NA,Compatible Lens 2,Pi8
+Zeiss,Visulas 532s,NA,532,520,540,NA,Compatible Lens 1,GiT1
+Zeiss,Visulas 532s,NA,532,520,540,NA,Compatible Lens 2,Pi3
+Zeiss,Visulas Green,NA,532,520,540,NA,Compatible Lens 1,GiT1
+Zeiss,Visulas Green,NA,532,520,540,NA,Compatible Lens 2,Pi3
+Zeiss,Visulas 690S,NA,690,680,700,NA,Compatible Lens 1,GiT7
+Zeiss,Visulas 532/YAG III Combi,NA,532/1064,530,1070,NA,Compatible Lens 1,Pi3
+Zeiss,Visulas 532/YAG III Combi,NA,532/1064,530,1070,NA,Compatible Lens 2,GiT1
+Zeiss,Visulas YAG III Combi,NA,1064/532,530,1070,NA,Compatible Lens 1,Pi3
+Zeiss,Visulas YAG III Combi,NA,1064/532,530,1070,NA,Compatible Lens 2,GiT1
+Zeiss,Visulas - Argon,NA,488.5/514,485,515,NA,Compatible Lens 1,Pi3
+Zeiss,Visulas - Argon,NA,488.5/514,485,515,NA,Compatible Lens 2,GiT1
+Zeiss,Visulas 532s,NA,532 1.5Watt,530,540,NA,Compatible Lens 1,Pi3
+Zeiss,Visulas 532s,NA,532 1.5Watt,530,540,NA,Compatible Lens 2,GiT1
+Zolar,Photon dental diode laser,NA,810nm,NA,NA,NA,Compatible Lens 1,Pi1
+Zolar,Photon Plus Dental Diode Laser,NA,980nm,NA,NA,NA,Compatible Lens 1,Pi17

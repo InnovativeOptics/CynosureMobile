@@ -1,0 +1,13 @@
+name: Cynosure
+title: Cynosure
+username:
+account: invo
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 9310607
+bundleId: 7354074
+url: https://invo.shinyapps.io/Cynosure/
+when: 1686928449.89293
+lastSyncTime: 1686928449.89302
+asMultiple: FALSE
+asStatic: FALSE
